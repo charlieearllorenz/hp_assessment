@@ -1,0 +1,2803 @@
+{
+  "datasets": {
+    "1su6-zfft": {
+      "downloaded_at": "2026-10-29T13:44:16+00:00",
+      "files": [
+        {
+          "bytes_downloaded": 3799,
+          "columns": [
+            "facility_id",
+            "facility_name",
+            "hospital_type",
+            "address",
+            "city_town",
+            "state",
+            "zip_code",
+            "county_parish",
+            "measure_id",
+            "measure_description",
+            "total_cases",
+            "rate",
+            "footnote",
+            "start_date",
+            "end_date"
+          ],
+          "name": "patient_engagement_pps_exempt_cancer_hospital_hospital__1su6-zfft.csv",
+          "url": "https://data.cms.gov/provider-data/sites/default/files/resources/1ee80985ad5e9a217dd0208b0e0d4b78_1785189979/PCH_Patient_Engagement_Hospital.csv"
+        }
+      ],
+      "fingerprint": {
+        "modified": "2026-07-22",
+        "released": "2026-08-13",
+        "urls": [
+          "https://data.cms.gov/provider-data/sites/default/files/resources/1ee80985ad5e9a217dd0208b0e0d4b78_1785189979/PCH_Patient_Engagement_Hospital.csv"
+        ]
+      },
+      "title": "Patient Engagement PPS-Exempt Cancer Hospital - Hospital"
+    },
+    "3n5g-6b7f": {
+      "downloaded_at": "2026-10-29T13:44:15+00:00",
+      "files": [
+        {
+          "bytes_downloaded": 252,
+          "columns": [
+            "measure_id",
+            "measure_name",
+            "score",
+            "footnote_score",
+            "national_median",
+            "footnote_national_median",
+            "start_date",
+            "end_date"
+          ],
+          "name": "medicare_spending_per_beneficiary_national__3n5g-6b7f.csv",
+          "url": "https://data.cms.gov/provider-data/sites/default/files/resources/ff15a8451b83ebc70b85a5c0e870a751_1785189965/Medicare_Hospital_Spending_Per_Patient-National.csv"
+        }
+      ],
+      "fingerprint": {
+        "modified": "2026-07-22",
+        "released": "2026-08-13",
+        "urls": [
+          "https://data.cms.gov/provider-data/sites/default/files/resources/ff15a8451b83ebc70b85a5c0e870a751_1785189965/Medicare_Hospital_Spending_Per_Patient-National.csv"
+        ]
+      },
+      "title": "Medicare Spending Per Beneficiary - National"
+    },
+    "48nr-hqxx": {
+      "downloaded_at": "2026-10-29T13:44:13+00:00",
+      "files": [
+        {
+          "bytes_downloaded": 877947,
+          "columns": [
+            "facility_id",
+            "facility_name",
+            "address",
+            "city_town",
+            "state",
+            "zip_code",
+            "county_parish",
+            "telephone_number",
+            "patients_who_reported_that_staff_definitely_gave_care_in_a_professional_way_and_the_facility_was_clean",
+            "patients_who_reported_that_staff_somewhat_gave_care_in_a_professional_way_or_the_facility_was_somewhat_clean",
+            "patients_who_reported_that_staff_did_not_give_care_in_a_professional_way_or_the_facility_was_not_clean",
+            "facilities_and_staff_linear_mean_score",
+            "patients_who_reported_that_staff_definitely_communicated_about_what_to_expect_during_and_after_the_procedure",
+            "patients_who_reported_that_staff_somewhat_communicated_about_what_to_expect_during_and_after_the_procedure",
+            "patients_who_reported_that_staff_did_not_communicate_about_what_to_expect_during_and_after_the_procedure",
+            "communication_about_your_procedure_linear_mean_score",
+            "patients_who_gave_the_facility_a_rating_of_9_or_10_on_a_scale_from_0_lowest_to_10_highest",
+            "patients_who_gave_the_facility_a_rating_of_7_or_8_on_a_scale_from_0_lowest_to_10_highest",
+            "patients_who_gave_the_facility_a_rating_of_0_to_6_on_a_scale_from_0_lowest_to_10_highest",
+            "patients_rating_of_the_facility_linear_mean_score",
+            "patients_who_reported_yes_they_would_definitely_recommend_the_facility_to_family_or_friends",
+            "patients_who_reported_probably_yes_they_would_recommend_the_facility_to_family_or_friends",
+            "patients_who_reported_no_they_would_not_recommend_the_facility_to_family_or_friends",
+            "patients_recommending_the_facility_linear_mean_score",
+            "footnote",
+            "number_of_sampled_patients",
+            "number_of_completed_surveys",
+            "survey_response_rate_percent",
+            "start_date",
+            "end_date"
+          ],
+          "name": "outpatient_and_ambulatory_surgery_consumer_assessment_of_healthcare_providers_an__48nr-hqxx.csv",
+          "url": "https://data.cms.gov/provider-data/sites/default/files/resources/8392b7d74209bb3dc54ff1b09635e733_1785189943/ASCQR_OAS_CAHPS_BY_ASC.csv"
+        }
+      ],
+      "fingerprint": {
+        "modified": "2026-07-22",
+        "released": "2026-08-13",
+        "urls": [
+          "https://data.cms.gov/provider-data/sites/default/files/resources/8392b7d74209bb3dc54ff1b09635e733_1785189943/ASCQR_OAS_CAHPS_BY_ASC.csv"
+        ]
+      },
+      "title": "Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey for ambulatory surgical centers - Facility"
+    },
+    "4dyz-5kt1": {
+      "downloaded_at": "2026-10-29T13:44:16+00:00",
+      "files": [
+        {
+          "bytes_downloaded": 279,
+          "columns": [
+            "measure_id",
+            "measure_description",
+            "national_rate",
+            "start_date",
+            "end_date"
+          ],
+          "name": "patient_engagement_pps_exempt_cancer_hospital_national__4dyz-5kt1.csv",
+          "url": "https://data.cms.gov/provider-data/sites/default/files/resources/887d52f819864261d84b0de6ac71a65c_1785189979/PCH_Patient_Engagement_National.csv"
+        }
+      ],
+      "fingerprint": {
+        "modified": "2026-07-22",
+        "released": "2026-08-13",
+        "urls": [
+          "https://data.cms.gov/provider-data/sites/default/files/resources/887d52f819864261d84b0de6ac71a65c_1785189979/PCH_Patient_Engagement_National.csv"
+        ]
+      },
+      "title": "Patient Engagement PPS-Exempt Cancer Hospital - National"
+    },
+    "4gkm-5ypv": {
+      "downloaded_at": "2026-10-29T13:44:16+00:00",
+      "files": [
+        {
+          "bytes_downloaded": 156741,
+          "columns": [
+            "state",
+            "measure_id",
+            "measure_name",
+            "number_of_hospitals_worse",
+            "number_of_hospitals_same",
+            "number_of_hospitals_better",
+            "number_of_hospitals_too_few",
+            "footnote",
+            "start_date",
+            "end_date",
+            "number_of_hospitals_fewer",
+            "number_of_hospitals_average",
+            "number_of_hospitals_more",
+            "number_of_hospitals_too_small"
+          ],
+          "name": "unplanned_hospital_visits_state__4gkm-5ypv.csv",
+          "url": "https://data.cms.gov/provider-data/sites/default/files/resources/73ce05bc6ecbb5def0e859818a906f7b_1790013961/Unplanned_Hospital_Visits-State.csv"
+        }
+      ],
+      "fingerprint": {
+        "modified": "2026-09-10",
+        "released": "2026-09-30",
+        "urls": [
+          "https://data.cms.gov/provider-data/sites/default/files/resources/73ce05bc6ecbb5def0e859818a906f7b_1790013961/Unplanned_Hospital_Visits-State.csv"
+        ]
+      },
+      "title": "Unplanned Hospital Visits - State"
+    },
+    "4j6d-yzce": {
+      "downloaded_at": "2026-10-29T13:44:15+00:00",
+      "files": [
+        {
+          "bytes_downloaded": 18993,
+          "columns": [
+            "measure_id",
+            "measure_name",
+            "measure_start_quarter",
+            "start_date",
+            "measure_end_quarter",
+            "end_date"
+          ],
+          "name": "measure_dates__4j6d-yzce.csv",
+          "url": "https://data.cms.gov/provider-data/sites/default/files/resources/633113381312e1fa86c8e0ba8b14ed0f_1785189963/Measure_Dates.csv"
+        }
+      ],
+      "fingerprint": {
+        "modified": "2026-07-28",
+        "released": "2026-08-13",
+        "urls": [
+          "https://data.cms.gov/provider-data/sites/default/files/resources/633113381312e1fa86c8e0ba8b14ed0f_1785189963/Measure_Dates.csv"
+        ]
+      },
+      "title": "Measure Dates"
+    },
+    "4jcv-atw7": {
+      "downloaded_at": "2026-10-29T13:44:13+00:00",
+      "files": [
+        {
+          "bytes_downloaded": 1523921,
+          "columns": [
+            "facility_name",
+            "facility_id",
+            "npi",
+            "city_town",
+            "state",
+            "zip_code",
+            "year",
+            "asc_1_rate",
+            "asc_1_footnote",
+            "asc_2_rate",
+            "asc_2_footnote",
+            "asc_3_rate",
+            "asc_3_footnote",
+            "asc_4_rate",
+            "asc_4_footnote",
+            "asc_9_rate",
+            "asc_9_footnote",
+            "asc_11_rate",
+            "asc_11_footnote",
+            "asc_12_total_cases",
+            "asc_12_performance_category",
+            "asc_12_rshv_rate",
+            "asc_12_interval_lower_limit",
+            "asc_12_interval_upper_limit",
+            "asc_12_footnote",
+            "asc_13_rate",
+            "asc_13_footnote",
+            "asc_14_rate",
+            "asc_14_footnote",
+            "asc_17_total_cases",
+            "asc_17_performance_category",
+            "asc_17_rshv_rate",
+            "asc_17_interval_lower_limit",
+            "asc_17_interval_upper_limit",
+            "asc_17_footnote",
+            "asc_18_total_cases",
+            "asc_18_performance_category",
+            "asc_18_rshv_rate",
+            "asc_18_interval_lower_limit",
+            "asc_18_interval_upper_limit",
+            "asc_18_footnote",
+            "asc_19_total_cases",
+            "asc_19_performance_category",
+            "asc_19_rshv_rate",
+            "asc_19_interval_lower_limit",
+            "asc_19_interval_upper_limit",
+            "asc_19_footnote"
+          ],
+          "name": "ambulatory_surgical_center_quality_measures_facility__4jcv-atw7.csv",
+          "url": "https://data.cms.gov/provider-data/sites/default/files/resources/dd03994fc93e296bb0297f1cd43cc987_1770163552/ASC_Facility.csv"
+        }
+      ],
+      "fingerprint": {
+        "modified": "2025-12-16",
+        "released": "2026-08-13",
+        "urls": [
+          "https://data.cms.gov/provider-data/sites/default/files/resources/dd03994fc93e296bb0297f1cd43cc987_1770163552/ASC_Facility.csv"
+        ]
+      },
+      "title": "Ambulatory Surgical Center Quality Measures - Facility"
+    },
+    "5gv4-jwyv": {
+      "downloaded_at": "2026-10-29T13:44:13+00:00",
+      "files": [
+        {
+          "bytes_downloaded": 896,
+          "columns": [
+            "net_change_in_base_operating_drg_payment_amount",
+            "number_of_hospitals_receiving_this_range"
+          ],
+          "name": "table_1_fy2024_net_change_in_base_operating_drg_payment_amount__5gv4-jwyv.csv",
+          "url": "https://data.cms.gov/provider-data/sites/default/files/resources/1b4d8a2b70cd651403cf1c4f8e545088_1770163575/FY2024_Net_Change_in_Base_Op_DRG_Payment_Amt.csv"
+        }
+      ],
+      "fingerprint": {
+        "modified": "2025-12-09",
+        "released": "2026-08-13",
+        "urls": [
+          "https://data.cms.gov/provider-data/sites/default/files/resources/1b4d8a2b70cd651403cf1c4f8e545088_1770163575/FY2024_Net_Change_in_Base_Op_DRG_Payment_Amt.csv"
+        ]
+      },
+      "title": "Table 1: FY2024 Net Change in Base Operating DRG Payment Amount"
+    },
+    "5hk7-b79m": {
+      "downloaded_at": "2026-10-29T13:44:14+00:00",
+      "files": [
+        {
+          "bytes_downloaded": 139627,
+          "columns": [
+            "facility_id",
+            "measure_id",
+            "value",
+            "footnote",
+            "start_date",
+            "end_date"
+          ],
+          "name": "medicare_spending_per_beneficiary_hospital_additional_decimal_places__5hk7-b79m.csv",
+          "url": "https://data.cms.gov/provider-data/sites/default/files/resources/500f70bcb6c65433c00a96af0e0c0430_1770163607/HOSPITAL_QUARTERLY_MSPB_6_DECIMALS.csv"
+        }
+      ],
+      "fingerprint": {
+        "modified": "2026-01-26",
+        "released": "2026-08-13",
+        "urls": [
+          "https://data.cms.gov/provider-data/sites/default/files/resources/500f70bcb6c65433c00a96af0e0c0430_1770163607/HOSPITAL_QUARTERLY_MSPB_6_DECIMALS.csv"
+        ]
+      },
+      "title": "Medicare Spending Per Beneficiary - Hospital Additional Decimal Places"
+    },
+    "632h-zaca": {
+      "downloaded_at": "2026-10-29T13:44:16+00:00",
+      "files": [
+        {
+          "bytes_downloaded": 18945811,
+          "columns": [
+            "facility_id",
+            "facility_name",
+            "address",
+            "city_town",
+            "state",
+            "zip_code",
+            "county_parish",
+            "telephone_number",
+            "measure_id",
+            "measure_name",
+            "compared_to_national",
+            "denominator",
+            "score",
+            "lower_estimate",
+            "higher_estimate",
+            "number_of_patients",
+            "number_of_patients_returned",
+            "footnote",
+            "start_date",
+            "end_date"
+          ],
+          "name": "unplanned_hospital_visits_hospital__632h-zaca.csv",
+          "url": "https://data.cms.gov/provider-data/sites/default/files/resources/30edc1d0417a34b58affcc2495a02b0a_1790013959/Unplanned_Hospital_Visits-Hospital.csv"
+        }
+      ],
+      "fingerprint": {
+        "modified": "2026-09-10",
+        "released": "2026-09-30",
+        "urls": [
+          "https://data.cms.gov/provider-data/sites/default/files/resources/30edc1d0417a34b58affcc2495a02b0a_1790013959/Unplanned_Hospital_Visits-Hospital.csv"
+        ]
+      },
+      "title": "Unplanned Hospital Visits - Hospital"
+    },
+    "6pfg-whmx": {
+      "downloaded_at": "2026-10-29T13:44:14+00:00",
+      "files": [
+        {
+          "bytes_downloaded": 183446,
+          "columns": [
+            "state",
+            "oas_cahps_measure_id",
+            "oas_cahps_question",
+            "oas_cahps_answer_description",
+            "oas_cahps_answer_percent",
+            "oas_cahps_answer_percent_footnote",
+            "start_date",
+            "end_date"
+          ],
+          "name": "outpatient_and_ambulatory_surgery_consumer_assessment_of_healthcare_providers_an__6pfg-whmx.csv",
+          "url": "https://data.cms.gov/provider-data/sites/default/files/resources/5c995348b26c08179f1149d3b07dcb70_1785189954/OQR_OAS_CAHPS_STATE.csv"
+        }
+      ],
+      "fingerprint": {
+        "modified": "2026-07-22",
+        "released": "2026-08-13",
+        "urls": [
+          "https://data.cms.gov/provider-data/sites/default/files/resources/5c995348b26c08179f1149d3b07dcb70_1785189954/OQR_OAS_CAHPS_STATE.csv"
+        ]
+      },
+      "title": "Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey for hospital outpatient departments - State"
+    },
+    "6qxe-iqz8": {
+      "downloaded_at": "2026-10-29T13:44:16+00:00",
+      "files": [
+        {
+          "bytes_downloaded": 156929,
+          "columns": [
+            "facility_id",
+            "facility_name",
+            "address",
+            "city_town",
+            "state",
+            "zip_code",
+            "county_parish",
+            "telephone_number",
+            "condition",
+            "measure_id",
+            "measure_name",
+            "score",
+            "sample",
+            "footnote",
+            "start_date",
+            "end_date"
+          ],
+          "name": "veterans_health_administration_behavioral_health_data__6qxe-iqz8.csv",
+          "url": "https://data.cms.gov/provider-data/sites/default/files/resources/0742f326b7a19b57bc01136b2cd8b7b6_1785189970/VA_IPF.csv"
+        }
+      ],
+      "fingerprint": {
+        "modified": "2026-07-22",
+        "released": "2026-08-13",
+        "urls": [
+          "https://data.cms.gov/provider-data/sites/default/files/resources/0742f326b7a19b57bc01136b2cd8b7b6_1785189970/VA_IPF.csv"
+        ]
+      },
+      "title": "Veterans Health Administration Behavioral Health Data"
+    },
+    "77hc-ibv8": {
+      "downloaded_at": "2026-10-29T13:44:15+00:00",
+      "files": [
+        {
+          "bytes_downloaded": 38629860,
+          "columns": [
+            "facility_id",
+            "facility_name",
+            "address",
+            "city_town",
+            "state",
+            "zip_code",
+            "county_parish",
+            "telephone_number",
+            "measure_id",
+            "measure_name",
+            "compared_to_national",
+            "score",
+            "footnote",
+            "start_date",
+            "end_date"
+          ],
+          "name": "healthcare_associated_infections_hospital__77hc-ibv8.csv",
+          "url": "https://data.cms.gov/provider-data/sites/default/files/resources/43825e12dc0c923df9ba5cbdf473c9d5_1785189952/Healthcare_Associated_Infections-Hospital.csv"
+        }
+      ],
+      "fingerprint": {
+        "modified": "2026-07-22",
+        "released": "2026-08-13",
+        "urls": [
+          "https://data.cms.gov/provider-data/sites/default/files/resources/43825e12dc0c923df9ba5cbdf473c9d5_1785189952/Healthcare_Associated_Infections-Hospital.csv"
+        ]
+      },
+      "title": "Healthcare Associated Infections - Hospital"
+    },
+    "7peb-i4pi": {
+      "downloaded_at": "2026-10-29T13:44:16+00:00",
+      "files": [
+        {
+          "bytes_downloaded": 7897,
+          "columns": [
+            "facility_id",
+            "facility_name",
+            "address",
+            "city_town",
+            "state",
+            "zip_code",
+            "county_parish",
+            "telephone_number",
+            "measure_id",
+            "measure_name",
+            "score",
+            "footnote",
+            "start_date",
+            "end_date"
+          ],
+          "name": "rural_emergency_hospital_outpatient_imaging_efficiency_hospital__7peb-i4pi.csv",
+          "url": "https://data.cms.gov/provider-data/sites/default/files/resources/1a7240761452e8430813299b2e5b28e1_1785189976/REH_Outpatient_Imaging_Efficiency-Hospital.csv"
+        }
+      ],
+      "fingerprint": {
+        "modified": "2026-07-22",
+        "released": "2026-08-13",
+        "urls": [
+          "https://data.cms.gov/provider-data/sites/default/files/resources/1a7240761452e8430813299b2e5b28e1_1785189976/REH_Outpatient_Imaging_Efficiency-Hospital.csv"
+        ]
+      },
+      "title": "Rural Emergency Hospital Outpatient Imaging Efficiency - Hospital"
+    },
+    "84jm-wiui": {
+      "downloaded_at": "2026-10-29T13:44:14+00:00",
+      "files": [
+        {
+          "bytes_downloaded": 570075,
+          "columns": [
+            "state",
+            "hcahps_measure_id",
+            "hcahps_question",
+            "hcahps_answer_description",
+            "hcahps_answer_percent",
+            "footnote",
+            "start_date",
+            "end_date"
+          ],
+          "name": "patient_survey_hcahps_state__84jm-wiui.csv",
+          "url": "https://data.cms.gov/provider-data/sites/default/files/resources/e4ca53701c73500a3188874f2bbd2854_1785189951/HCAHPS-State.csv"
+        }
+      ],
+      "fingerprint": {
+        "modified": "2026-07-22",
+        "released": "2026-08-13",
+        "urls": [
+          "https://data.cms.gov/provider-data/sites/default/files/resources/e4ca53701c73500a3188874f2bbd2854_1785189951/HCAHPS-State.csv"
+        ]
+      },
+      "title": "Patient survey (HCAHPS) - State"
+    },
+    "97xg-v3wv": {
+      "downloaded_at": "2026-10-29T13:44:16+00:00",
+      "files": [
+        {
+          "bytes_downloaded": 62524,
+          "columns": [
+            "facility_id",
+            "facility_name",
+            "address",
+            "city_town",
+            "state",
+            "zip_code",
+            "county_parish",
+            "telephone_number",
+            "condition",
+            "measure_id",
+            "measure_name",
+            "score",
+            "sample",
+            "footnote",
+            "start_date",
+            "end_date"
+          ],
+          "name": "rural_emergency_hospital_timely_and_effective_care_hospital__97xg-v3wv.csv",
+          "url": "https://data.cms.gov/provider-data/sites/default/files/resources/325633e3e81e17de313537518fdca092_1785189974/REH_Timely_and_Effective_Care-Hospital.csv"
+        }
+      ],
+      "fingerprint": {
+        "modified": "2026-07-22",
+        "released": "2026-08-13",
+        "urls": [
+          "https://data.cms.gov/provider-data/sites/default/files/resources/325633e3e81e17de313537518fdca092_1785189974/REH_Timely_and_Effective_Care-Hospital.csv"
+        ]
+      },
+      "title": "Rural Emergency Hospital Timely and Effective Care - Hospital"
+    },
+    "99ue-w85f": {
+      "downloaded_at": "2026-10-29T13:44:13+00:00",
+      "files": [
+        {
+          "bytes_downloaded": 10106,
+          "columns": [
+            "hcahps_measure_id",
+            "hcahps_question",
+            "hcahps_answer_description",
+            "hcahps_answer_percent",
+            "footnote",
+            "start_date",
+            "end_date"
+          ],
+          "name": "patient_survey_hcahps_national__99ue-w85f.csv",
+          "url": "https://data.cms.gov/provider-data/sites/default/files/resources/08eefc5ab7c6cce7b3555fd79b0d8eec_1785189951/HCAHPS-National.csv"
+        }
+      ],
+      "fingerprint": {
+        "modified": "2026-07-22",
+        "released": "2026-08-13",
+        "urls": [
+          "https://data.cms.gov/provider-data/sites/default/files/resources/08eefc5ab7c6cce7b3555fd79b0d8eec_1785189951/HCAHPS-National.csv"
+        ]
+      },
+      "title": "Patient survey (HCAHPS) - National"
+    },
+    "9g7e-btyt": {
+      "downloaded_at": "2026-10-29T13:44:15+00:00",
+      "files": [
+        {
+          "bytes_downloaded": 10037,
+          "columns": [
+            "measure_id",
+            "hcahps_question",
+            "hcahps_answer_description",
+            "hcahps_answer_percent",
+            "start_date",
+            "end_date"
+          ],
+          "name": "patient_survey_pch_hcahps_pps_exempt_cancer_hospital_national__9g7e-btyt.csv",
+          "url": "https://data.cms.gov/provider-data/sites/default/files/resources/51dabafd670b6379256fc111bcbec8b4_1785189958/PCH_HCAHPS_NATIONAL.csv"
+        }
+      ],
+      "fingerprint": {
+        "modified": "2026-07-22",
+        "released": "2026-08-13",
+        "urls": [
+          "https://data.cms.gov/provider-data/sites/default/files/resources/51dabafd670b6379256fc111bcbec8b4_1785189958/PCH_HCAHPS_NATIONAL.csv"
+        ]
+      },
+      "title": "Patient Survey (PCH - HCAHPS) PPS-Exempt Cancer Hospital - National"
+    },
+    "9n3s-kdb3": {
+      "downloaded_at": "2026-10-29T13:44:15+00:00",
+      "files": [
+        {
+          "bytes_downloaded": 2068464,
+          "columns": [
+            "facility_name",
+            "facility_id",
+            "state",
+            "measure_name",
+            "number_of_discharges",
+            "footnote",
+            "excess_readmission_ratio",
+            "predicted_readmission_rate",
+            "expected_readmission_rate",
+            "number_of_readmissions",
+            "start_date",
+            "end_date"
+          ],
+          "name": "hospital_readmissions_reduction_program__9n3s-kdb3.csv",
+          "url": "https://data.cms.gov/provider-data/sites/default/files/resources/a171bc36c488d3e0dc33ec63abb469a6_1770163617/FY_2026_Hospital_Readmissions_Reduction_Program_Hospital.csv"
+        }
+      ],
+      "fingerprint": {
+        "modified": "2026-01-26",
+        "released": "2026-08-13",
+        "urls": [
+          "https://data.cms.gov/provider-data/sites/default/files/resources/a171bc36c488d3e0dc33ec63abb469a6_1770163617/FY_2026_Hospital_Readmissions_Reduction_Program_Hospital.csv"
+        ]
+      },
+      "title": "Hospital Readmissions Reduction Program"
+    },
+    "apyc-v239": {
+      "downloaded_at": "2026-10-29T13:44:16+00:00",
+      "files": [
+        {
+          "bytes_downloaded": 394737,
+          "columns": [
+            "state",
+            "condition",
+            "measure_id",
+            "measure_name",
+            "score",
+            "footnote",
+            "start_date",
+            "end_date"
+          ],
+          "name": "timely_and_effective_care_state__apyc-v239.csv",
+          "url": "https://data.cms.gov/provider-data/sites/default/files/resources/c4f74a440cc6ce4ed941fa3c9de2ab58_1785189968/Timely_and_Effective_Care-State.csv"
+        }
+      ],
+      "fingerprint": {
+        "modified": "2026-07-22",
+        "released": "2026-08-13",
+        "urls": [
+          "https://data.cms.gov/provider-data/sites/default/files/resources/c4f74a440cc6ce4ed941fa3c9de2ab58_1785189968/Timely_and_Effective_Care-State.csv"
+        ]
+      },
+      "title": "Timely and Effective Care - State"
+    },
+    "avtz-f2ge": {
+      "downloaded_at": "2026-10-29T13:44:15+00:00",
+      "files": [
+        {
+          "bytes_downloaded": 1505930,
+          "columns": [
+            "fiscal_year",
+            "facility_id",
+            "facility_name",
+            "address",
+            "city_town",
+            "state",
+            "zip_code",
+            "county_parish",
+            "communication_with_nurses_floor",
+            "communication_with_nurses_achievement_threshold",
+            "communication_with_nurses_benchmark",
+            "communication_with_nurses_baseline_rate",
+            "communication_with_nurses_performance_rate",
+            "communication_with_nurses_achievement_points",
+            "communication_with_nurses_improvement_points",
+            "communication_with_nurses_dimension_score",
+            "communication_with_doctors_floor",
+            "communication_with_doctors_achievement_threshold",
+            "communication_with_doctors_benchmark",
+            "communication_with_doctors_baseline_rate",
+            "communication_with_doctors_performance_rate",
+            "communication_with_doctors_achievement_points",
+            "communication_with_doctors_improvement_points",
+            "communication_with_doctors_dimension_score",
+            "responsiveness_of_hospital_staff_floor",
+            "responsiveness_of_hospital_staff_achievement_threshold",
+            "responsiveness_of_hospital_staff_benchmark",
+            "responsiveness_of_hospital_staff_baseline_rate",
+            "responsiveness_of_hospital_staff_performance_rate",
+            "responsiveness_of_hospital_staff_achievement_points",
+            "responsiveness_of_hospital_staff_improvement_points",
+            "responsiveness_of_hospital_staff_dimension_score",
+            "care_transition_floor",
+            "care_transition_achievement_threshold",
+            "care_transition_benchmark",
+            "care_transition_baseline_rate",
+            "care_transition_performance_rate",
+            "care_transition_achievement_points",
+            "care_transition_improvement_points",
+            "care_transition_dimension_score",
+            "communication_about_medicines_floor",
+            "communication_about_medicines_achievement_threshold",
+            "communication_about_medicines_benchmark",
+            "communication_about_medicines_baseline_rate",
+            "communication_about_medicines_performance_rate",
+            "communication_about_medicines_achievement_points",
+            "communication_about_medicines_improvement_points",
+            "communication_about_medicines_dimension_score",
+            "cleanliness_and_quietness_of_hospital_environment_floor",
+            "cleanliness_and_quietness_of_hospital_environment_achievement_threshold",
+            "cleanliness_and_quietness_of_hospital_environment_benchmark",
+            "cleanliness_and_quietness_of_hospital_environment_baseline_rate",
+            "cleanliness_and_quietness_of_hospital_environment_performance_rate",
+            "cleanliness_and_quietness_of_hospital_environment_achievement_points",
+            "cleanliness_and_quietness_of_hospital_environment_improvement_points",
+            "cleanliness_and_quietness_of_hospital_environment_dimension_score",
+            "discharge_information_floor",
+            "discharge_information_achievement_threshold",
+            "discharge_information_benchmark",
+            "discharge_information_baseline_rate",
+            "discharge_information_performance_rate",
+            "discharge_information_achievement_points",
+            "discharge_information_improvement_points",
+            "discharge_information_dimension_score",
+            "overall_rating_of_hospital_floor",
+            "overall_rating_of_hospital_achievement_threshold",
+            "overall_rating_of_hospital_benchmark",
+            "overall_rating_of_hospital_baseline_rate",
+            "overall_rating_of_hospital_performance_rate",
+            "overall_rating_of_hospital_achievement_points",
+            "overall_rating_of_hospital_improvement_points",
+            "overall_rating_of_hospital_dimension_score",
+            "hcahps_base_score",
+            "hcahps_consistency_score"
+          ],
+          "name": "hospital_value_based_purchasing_hvbp_person_and_community_engagement_domain_scor__avtz-f2ge.csv",
+          "url": "https://data.cms.gov/provider-data/sites/default/files/resources/ccc6534894a9bfe22b5f986260ed359e_1770163624/hvbp_person_and_community_engagement.csv"
+        }
+      ],
+      "fingerprint": {
+        "modified": "2026-01-26",
+        "released": "2026-08-13",
+        "urls": [
+          "https://data.cms.gov/provider-data/sites/default/files/resources/ccc6534894a9bfe22b5f986260ed359e_1770163624/hvbp_person_and_community_engagement.csv"
+        ]
+      },
+      "title": "Hospital Value-Based Purchasing (HVBP) - Person and Community Engagement Domain Scores (HCAHPS)"
+    },
+    "axe7-s95e": {
+      "downloaded_at": "2026-10-29T13:44:13+00:00",
+      "files": [
+        {
+          "bytes_downloaded": 8408,
+          "columns": [
+            "state",
+            "year",
+            "avg_asc_1_state_rate",
+            "median_asc_1_state_rate",
+            "avg_asc_2_state_rate",
+            "median_asc_2_state_rate",
+            "avg_asc_3_state_rate",
+            "median_asc_3_state_rate",
+            "avg_asc_4_state_rate",
+            "median_asc_4_state_rate",
+            "avg_asc_9_state_rate",
+            "median_asc_9_state_rate",
+            "avg_asc_11_state_rate",
+            "median_asc_11_state_rate",
+            "asc_12_better",
+            "asc_12_no_different",
+            "asc_12_worse",
+            "asc_12_too_small",
+            "avg_asc_13_state_rate",
+            "median_asc_13_state_rate",
+            "avg_asc_14_state_rate",
+            "median_asc_14_state_rate",
+            "asc_17_better",
+            "asc_17_no_different",
+            "asc_17_worse",
+            "asc_17_too_small",
+            "asc_18_better",
+            "asc_18_no_different",
+            "asc_18_worse",
+            "asc_18_too_small",
+            "asc_19_better",
+            "asc_19_no_different",
+            "asc_19_worse",
+            "asc_19_too_small"
+          ],
+          "name": "ambulatory_surgical_center_quality_measures_state__axe7-s95e.csv",
+          "url": "https://data.cms.gov/provider-data/sites/default/files/resources/d3aea2dfaeae85c44017441b184aeb6d_1770163558/ASC_State.csv"
+        }
+      ],
+      "fingerprint": {
+        "modified": "2025-12-16",
+        "released": "2026-08-13",
+        "urls": [
+          "https://data.cms.gov/provider-data/sites/default/files/resources/d3aea2dfaeae85c44017441b184aeb6d_1770163558/ASC_State.csv"
+        ]
+      },
+      "title": "Ambulatory Surgical Center Quality Measures - State"
+    },
+    "bs2r-24vh": {
+      "downloaded_at": "2026-10-29T13:44:14+00:00",
+      "files": [
+        {
+          "bytes_downloaded": 123662,
+          "columns": [
+            "state",
+            "measure_id",
+            "measure_name",
+            "number_of_hospitals_worse",
+            "number_of_hospitals_same",
+            "number_of_hospitals_better",
+            "number_of_hospitals_too_few",
+            "footnote",
+            "start_date",
+            "end_date"
+          ],
+          "name": "complications_and_deaths_state__bs2r-24vh.csv",
+          "url": "https://data.cms.gov/provider-data/sites/default/files/resources/247bb4364e310313773d74ccb0fb3231_1790013957/Complications_and_Deaths-State.csv"
+        }
+      ],
+      "fingerprint": {
+        "modified": "2026-09-10",
+        "released": "2026-09-30",
+        "urls": [
+          "https://data.cms.gov/provider-data/sites/default/files/resources/247bb4364e310313773d74ccb0fb3231_1790013957/Complications_and_Deaths-State.csv"
+        ]
+      },
+      "title": "Complications and Deaths - State"
+    },
+    "bzsr-4my4": {
+      "downloaded_at": "2026-10-29T13:44:16+00:00",
+      "files": [
+        {
+          "bytes_downloaded": 193875,
+          "columns": [
+            "https_data_cms_gov_provider_data_location_affected",
+            "downloadable_csv_revised_file_affected",
+            "data_last_updated",
+            "data_last_updated_details"
+          ],
+          "name": "data_updates__bzsr-4my4.csv",
+          "url": "https://data.cms.gov/provider-data/sites/default/files/resources/f751bebc45c1ee84120ea833308faef2_1785189971/Data_Updates_July_2026.csv"
+        }
+      ],
+      "fingerprint": {
+        "modified": "2026-07-15",
+        "released": "2026-08-13",
+        "urls": [
+          "https://data.cms.gov/provider-data/sites/default/files/resources/f751bebc45c1ee84120ea833308faef2_1785189971/Data_Updates_July_2026.csv"
+        ]
+      },
+      "title": "Data Updates"
+    },
+    "cvcs-xecj": {
+      "downloaded_at": "2026-10-29T13:44:16+00:00",
+      "files": [
+        {
+          "bytes_downloaded": 3182,
+          "columns": [
+            "measure_id",
+            "measure_name",
+            "national_rate",
+            "number_of_hospitals_worse",
+            "number_of_hospitals_same",
+            "number_of_hospitals_better",
+            "number_of_hospitals_too_few",
+            "footnote",
+            "start_date",
+            "end_date",
+            "number_of_hospitals_fewer",
+            "number_of_hospitals_average",
+            "number_of_hospitals_more",
+            "number_of_hospitals_too_small"
+          ],
+          "name": "unplanned_hospital_visits_national__cvcs-xecj.csv",
+          "url": "https://data.cms.gov/provider-data/sites/default/files/resources/d30b0557f1d06bee1d5646d2eaede709_1790013960/Unplanned_Hospital_Visits-National.csv"
+        }
+      ],
+      "fingerprint": {
+        "modified": "2026-09-10",
+        "released": "2026-09-30",
+        "urls": [
+          "https://data.cms.gov/provider-data/sites/default/files/resources/d30b0557f1d06bee1d5646d2eaede709_1790013960/Unplanned_Hospital_Visits-National.csv"
+        ]
+      },
+      "title": "Unplanned Hospital Visits - National"
+    },
+    "d2k3-k3ac": {
+      "downloaded_at": "2026-10-29T13:44:16+00:00",
+      "files": [
+        {
+          "bytes_downloaded": 2821,
+          "columns": [
+            "measure_id",
+            "measure_name",
+            "condition",
+            "category",
+            "score",
+            "footnote",
+            "start_date",
+            "end_date"
+          ],
+          "name": "rural_emergency_hospital_timely_and_effective_care_national__d2k3-k3ac.csv",
+          "url": "https://data.cms.gov/provider-data/sites/default/files/resources/3e7a7fe925204d9f476690ad30ffcb28_1785189975/REH_Timely_and_Effective_Care-National.csv"
+        }
+      ],
+      "fingerprint": {
+        "modified": "2026-07-22",
+        "released": "2026-08-13",
+        "urls": [
+          "https://data.cms.gov/provider-data/sites/default/files/resources/3e7a7fe925204d9f476690ad30ffcb28_1785189975/REH_Timely_and_Effective_Care-National.csv"
+        ]
+      },
+      "title": "Rural Emergency Hospital Timely and Effective Care - National"
+    },
+    "dc76-gh7x": {
+      "downloaded_at": "2026-10-29T13:44:15+00:00",
+      "files": [
+        {
+          "bytes_downloaded": 48662,
+          "columns": [
+            "state",
+            "hbips_2_measure_description",
+            "s_hbips_2_overall_rate_per_1000",
+            "s_hbips_2_overall_num",
+            "s_hbips_2_overall_den",
+            "hbips_3_measure_description",
+            "s_hbips_3_overall_rate_per_1000",
+            "s_hbips_3_overall_num",
+            "s_hbips_3_overall_den",
+            "smd_measure_description",
+            "s_smd",
+            "sub_2_2a_measure_description",
+            "s_sub_2",
+            "s_sub_2a",
+            "sub_3_3a_measure_description",
+            "s_sub_3",
+            "s_sub_3a",
+            "tob_3_3a_measure_description",
+            "s_tob_3",
+            "s_tob_3a",
+            "tr_1_measure_description",
+            "s_tr_1",
+            "start_date",
+            "end_date",
+            "faph_measure_description",
+            "s_faph_30",
+            "s_faph_7",
+            "faph_measure_start_date",
+            "faph_measure_end_date",
+            "medcont_measure_description",
+            "s_medcont",
+            "medcont_measure_start_date",
+            "medcont_measure_end_date",
+            "readm_30_ipf_measure_desc",
+            "s_readm_30_ipf_ipfs_worse",
+            "s_readm_30_ipf_ipfs_same",
+            "s_readm_30_ipf_ipfs_better",
+            "s_readm_30_ipf_ipfs_too_few",
+            "readm_30_ipf_start_date",
+            "readm_30_ipf_end_date",
+            "imm_2_measure_description",
+            "s_imm_2",
+            "flu_season_start_date",
+            "flu_season_end_date"
+          ],
+          "name": "inpatient_psychiatric_facility_quality_measure_data_by_state__dc76-gh7x.csv",
+          "url": "https://data.cms.gov/provider-data/sites/default/files/resources/aaf5b6168e889e217580d86b5c443c6d_1785189963/IPFQR_QualityMeasures_State.csv"
+        }
+      ],
+      "fingerprint": {
+        "modified": "2026-07-22",
+        "released": "2026-08-13",
+        "urls": [
+          "https://data.cms.gov/provider-data/sites/default/files/resources/aaf5b6168e889e217580d86b5c443c6d_1785189963/IPFQR_QualityMeasures_State.csv"
+        ]
+      },
+      "title": "Inpatient Psychiatric Facility Quality Measure Data - by State"
+    },
+    "dgck-syfz": {
+      "downloaded_at": "2026-10-29T13:44:17+00:00",
+      "files": [
+        {
+          "bytes_downloaded": 105461119,
+          "columns": [
+            "facility_id",
+            "facility_name",
+            "address",
+            "city_town",
+            "state",
+            "zip_code",
+            "county_parish",
+            "telephone_number",
+            "hcahps_measure_id",
+            "hcahps_question",
+            "hcahps_answer_description",
+            "patient_survey_star_rating",
+            "patient_survey_star_rating_footnote",
+            "hcahps_answer_percent",
+            "hcahps_answer_percent_footnote",
+            "hcahps_linear_mean_value",
+            "number_of_completed_surveys",
+            "number_of_completed_surveys_footnote",
+            "survey_response_rate_percent",
+            "survey_response_rate_percent_footnote",
+            "start_date",
+            "end_date"
+          ],
+          "name": "patient_survey_hcahps_hospital__dgck-syfz.csv",
+          "url": "https://data.cms.gov/provider-data/sites/default/files/resources/78a50346fbe828ea0ce2837847af6a7c_1785189950/HCAHPS-Hospital.csv"
+        }
+      ],
+      "fingerprint": {
+        "modified": "2026-07-22",
+        "released": "2026-08-13",
+        "urls": [
+          "https://data.cms.gov/provider-data/sites/default/files/resources/78a50346fbe828ea0ce2837847af6a7c_1785189950/HCAHPS-Hospital.csv"
+        ]
+      },
+      "title": "Patient survey (HCAHPS) - Hospital"
+    },
+    "dgmq-aat3": {
+      "downloaded_at": "2026-10-29T13:44:15+00:00",
+      "files": [
+        {
+          "bytes_downloaded": 1414888,
+          "columns": [
+            "fiscal_year",
+            "facility_id",
+            "facility_name",
+            "address",
+            "city_town",
+            "state",
+            "zip_code",
+            "county_parish",
+            "hai_1_achievement_threshold",
+            "hai_1_benchmark",
+            "hai_1_baseline_rate",
+            "hai_1_performance_rate",
+            "hai_1_achievement_points",
+            "hai_1_improvement_points",
+            "hai_1_measure_score",
+            "hai_2_achievement_threshold",
+            "hai_2_benchmark",
+            "hai_2_baseline_rate",
+            "hai_2_performance_rate",
+            "hai_2_achievement_points",
+            "hai_2_improvement_points",
+            "hai_2_measure_score",
+            "combined_ssi_measure_score",
+            "hai_3_achievement_threshold",
+            "hai_3_benchmark",
+            "hai_3_baseline_rate",
+            "hai_3_performance_rate",
+            "hai_3_achievement_points",
+            "hai_3_improvement_points",
+            "hai_3_measure_score",
+            "hai_4_achievement_threshold",
+            "hai_4_benchmark",
+            "hai_4_baseline_rate",
+            "hai_4_performance_rate",
+            "hai_4_achievement_points",
+            "hai_4_improvement_points",
+            "hai_4_measure_score",
+            "hai_5_achievement_threshold",
+            "hai_5_benchmark",
+            "hai_5_baseline_rate",
+            "hai_5_performance_rate",
+            "hai_5_achievement_points",
+            "hai_5_improvement_points",
+            "hai_5_measure_score",
+            "hai_6_achievement_threshold",
+            "hai_6_benchmark",
+            "hai_6_baseline_rate",
+            "hai_6_performance_rate",
+            "hai_6_achievement_points",
+            "hai_6_improvement_points",
+            "hai_6_measure_score",
+            "sep_1_achievement_threshold",
+            "sep_1_benchmark",
+            "sep_1_baseline_rate",
+            "sep_1_performance_rate",
+            "sep_1_achievement_points",
+            "sep_1_improvement_points",
+            "sep_1_measure_score"
+          ],
+          "name": "hospital_value_based_purchasing_hvbp_safety__dgmq-aat3.csv",
+          "url": "https://data.cms.gov/provider-data/sites/default/files/resources/33e26123c259ca779642b0d61b2e82f5_1777392336/hvbp_safety.csv"
+        }
+      ],
+      "fingerprint": {
+        "modified": "2026-04-28",
+        "released": "2026-08-13",
+        "urls": [
+          "https://data.cms.gov/provider-data/sites/default/files/resources/33e26123c259ca779642b0d61b2e82f5_1777392336/hvbp_safety.csv"
+        ]
+      },
+      "title": "Hospital Value-Based Purchasing (HVBP) - Safety"
+    },
+    "di9i-zzrc": {
+      "downloaded_at": "2026-10-29T13:44:16+00:00",
+      "files": [
+        {
+          "bytes_downloaded": 211,
+          "columns": [
+            "measure_id",
+            "measure_name",
+            "score",
+            "footnote",
+            "start_date",
+            "end_date"
+          ],
+          "name": "outpatient_imaging_efficiency_national__di9i-zzrc.csv",
+          "url": "https://data.cms.gov/provider-data/sites/default/files/resources/78172a595e76dc064ea87884c5aea1f8_1785189966/Outpatient_Imaging_Efficiency-National.csv"
+        }
+      ],
+      "fingerprint": {
+        "modified": "2026-07-22",
+        "released": "2026-08-13",
+        "urls": [
+          "https://data.cms.gov/provider-data/sites/default/files/resources/78172a595e76dc064ea87884c5aea1f8_1785189966/Outpatient_Imaging_Efficiency-National.csv"
+        ]
+      },
+      "title": "Outpatient Imaging Efficiency - National"
+    },
+    "f4ga-b9gx": {
+      "downloaded_at": "2026-10-29T13:44:16+00:00",
+      "files": [
+        {
+          "bytes_downloaded": 647313,
+          "columns": [
+            "facility_id",
+            "facility_name",
+            "address",
+            "city_town",
+            "state",
+            "zip_code",
+            "county_parish",
+            "telephone_number",
+            "cehrt_id",
+            "meets_criteria_for_promoting_interoperability_of_ehrs",
+            "start_date",
+            "end_date"
+          ],
+          "name": "promoting_interoperability_hospital__f4ga-b9gx.csv",
+          "url": "https://data.cms.gov/provider-data/sites/default/files/resources/5462b19a756c53c1becccf13787d9157_1785189974/Promoting_Interoperability-Hospital.csv"
+        }
+      ],
+      "fingerprint": {
+        "modified": "2026-07-22",
+        "released": "2026-08-13",
+        "urls": [
+          "https://data.cms.gov/provider-data/sites/default/files/resources/5462b19a756c53c1becccf13787d9157_1785189974/Promoting_Interoperability-Hospital.csv"
+        ]
+      },
+      "title": "Promoting Interoperability - Hospital"
+    },
+    "hbf-map": {
+      "downloaded_at": "2026-10-29T13:44:16+00:00",
+      "files": [
+        {
+          "bytes_downloaded": 208858,
+          "columns": [
+            "name",
+            "addr",
+            "city",
+            "state",
+            "zip",
+            "lat",
+            "lon"
+          ],
+          "name": "birthing_friendly_hospitals_with_geocoded_addresses__hbf-map.csv",
+          "url": "https://data.cms.gov/provider-data/sites/default/files/resources/e7f75e0803a17e22c4e26acf2183e622_1786493184/Birthing_Friendly_Hospitals_Geocoded.csv"
+        }
+      ],
+      "fingerprint": {
+        "modified": "2026-07-28",
+        "released": "2026-08-13",
+        "urls": [
+          "https://data.cms.gov/provider-data/sites/default/files/resources/e7f75e0803a17e22c4e26acf2183e622_1786493184/Birthing_Friendly_Hospitals_Geocoded.csv"
+        ]
+      },
+      "title": "Birthing Friendly Hospitals with Geocoded Addresses"
+    },
+    "if5v-4x48": {
+      "downloaded_at": "2026-10-29T13:44:16+00:00",
+      "files": [
+        {
+          "bytes_downloaded": 8390,
+          "columns": [
+            "state",
+            "measure_id",
+            "measure_name",
+            "score",
+            "footnote",
+            "start_date",
+            "end_date"
+          ],
+          "name": "outpatient_imaging_efficiency_state__if5v-4x48.csv",
+          "url": "https://data.cms.gov/provider-data/sites/default/files/resources/6fb7a772c39e34e630e7e97ec4887263_1785189967/Outpatient_Imaging_Efficiency-State.csv"
+        }
+      ],
+      "fingerprint": {
+        "modified": "2026-07-22",
+        "released": "2026-08-13",
+        "urls": [
+          "https://data.cms.gov/provider-data/sites/default/files/resources/6fb7a772c39e34e630e7e97ec4887263_1785189967/Outpatient_Imaging_Efficiency-State.csv"
+        ]
+      },
+      "title": "Outpatient Imaging Efficiency - State"
+    },
+    "isrn-hqyy": {
+      "downloaded_at": "2026-10-29T13:44:16+00:00",
+      "files": [
+        {
+          "bytes_downloaded": 13805,
+          "columns": [
+            "measure_id",
+            "measure_name",
+            "condition",
+            "category",
+            "score",
+            "footnote",
+            "start_date",
+            "end_date"
+          ],
+          "name": "timely_and_effective_care_national__isrn-hqyy.csv",
+          "url": "https://data.cms.gov/provider-data/sites/default/files/resources/b298b4a8c05addc75d1e9c9c9b2e4706_1785189968/Timely_and_Effective_Care-National.csv"
+        }
+      ],
+      "fingerprint": {
+        "modified": "2026-07-22",
+        "released": "2026-08-13",
+        "urls": [
+          "https://data.cms.gov/provider-data/sites/default/files/resources/b298b4a8c05addc75d1e9c9c9b2e4706_1785189968/Timely_and_Effective_Care-National.csv"
+        ]
+      },
+      "title": "Timely and Effective Care - National"
+    },
+    "iy27-wz37": {
+      "downloaded_at": "2026-10-29T13:44:14+00:00",
+      "files": [
+        {
+          "bytes_downloaded": 246759,
+          "columns": [
+            "facility_id",
+            "facility_name",
+            "address",
+            "city_town",
+            "state",
+            "zip_code",
+            "county_parish",
+            "telephone_number",
+            "hcahps_measure_id",
+            "hcahps_question",
+            "hcahps_answer_description",
+            "patient_survey_star_rating",
+            "patient_survey_star_rating_footnote",
+            "hcahps_answer_percent",
+            "hcahps_answer_percent_footnote",
+            "hcahps_linear_mean_value",
+            "number_of_completed_surveys",
+            "number_of_completed_surveys_footnote",
+            "survey_response_rate_percent",
+            "survey_response_rate_percent_footnote",
+            "start_date",
+            "end_date"
+          ],
+          "name": "patient_survey_pch_hcahps_pps_exempt_cancer_hospital_hospital__iy27-wz37.csv",
+          "url": "https://data.cms.gov/provider-data/sites/default/files/resources/155aff6db1e04cbbe1676ce459d71053_1785189958/PCH_HCAHPS_HOSPITAL.csv"
+        }
+      ],
+      "fingerprint": {
+        "modified": "2026-07-22",
+        "released": "2026-08-13",
+        "urls": [
+          "https://data.cms.gov/provider-data/sites/default/files/resources/155aff6db1e04cbbe1676ce459d71053_1785189958/PCH_HCAHPS_HOSPITAL.csv"
+        ]
+      },
+      "title": "Patient Survey (PCH - HCAHPS) PPS-Exempt Cancer Hospital - Hospital"
+    },
+    "jfnd-nl7s": {
+      "downloaded_at": "2026-10-29T13:44:14+00:00",
+      "files": [
+        {
+          "bytes_downloaded": 708,
+          "columns": [
+            "measure_id",
+            "measure_description",
+            "national_rate",
+            "better",
+            "no_different",
+            "worse",
+            "too_small",
+            "start_date",
+            "end_date"
+          ],
+          "name": "complications_and_unplanned_hospital_visits_pps_exempt_cancer_hospital_national__jfnd-nl7s.csv",
+          "url": "https://data.cms.gov/provider-data/sites/default/files/resources/6a91b2a437ea47e61cd34c975dd54729_1790013959/PCH_Complications_Unplanned_Hospital_Visits_NATIONAL.csv"
+        }
+      ],
+      "fingerprint": {
+        "modified": "2026-09-10",
+        "released": "2026-09-30",
+        "urls": [
+          "https://data.cms.gov/provider-data/sites/default/files/resources/6a91b2a437ea47e61cd34c975dd54729_1790013959/PCH_Complications_Unplanned_Hospital_Visits_NATIONAL.csv"
+        ]
+      },
+      "title": "Complications and Unplanned Hospital Visits - PPS-Exempt Cancer Hospital - National"
+    },
+    "k2ze-bqvw": {
+      "downloaded_at": "2026-10-29T13:44:14+00:00",
+      "files": [
+        {
+          "bytes_downloaded": 101369,
+          "columns": [
+            "state",
+            "measure_id",
+            "measure_name",
+            "score",
+            "footnote",
+            "start_date",
+            "end_date"
+          ],
+          "name": "healthcare_associated_infections_state__k2ze-bqvw.csv",
+          "url": "https://data.cms.gov/provider-data/sites/default/files/resources/27986ce2f1193d3fcad7fa1bddc93c3b_1785189953/Healthcare_Associated_Infections-State.csv"
+        }
+      ],
+      "fingerprint": {
+        "modified": "2026-07-22",
+        "released": "2026-08-13",
+        "urls": [
+          "https://data.cms.gov/provider-data/sites/default/files/resources/27986ce2f1193d3fcad7fa1bddc93c3b_1785189953/Healthcare_Associated_Infections-State.csv"
+        ]
+      },
+      "title": "Healthcare Associated Infections - State"
+    },
+    "k653-4ka8": {
+      "downloaded_at": "2026-10-29T13:44:14+00:00",
+      "files": [
+        {
+          "bytes_downloaded": 66716,
+          "columns": [
+            "facility_id",
+            "facility_name",
+            "hospital_type",
+            "address",
+            "city_town",
+            "state",
+            "zip_code",
+            "county_parish",
+            "measure_id",
+            "measure_name",
+            "score",
+            "footnote",
+            "start_date",
+            "end_date"
+          ],
+          "name": "safety_and_healthcare_associated_infection_measures_pps_exempt_cancer_hospital__k653-4ka8.csv",
+          "url": "https://data.cms.gov/provider-data/sites/default/files/resources/d24fd9fa17ad5673de9cf6220c1c7a5a_1785189957/PCH_HEALTHCARE_ASSOCIATED_INFECTIONS_HOSPITAL.csv"
+        }
+      ],
+      "fingerprint": {
+        "modified": "2026-07-22",
+        "released": "2026-08-13",
+        "urls": [
+          "https://data.cms.gov/provider-data/sites/default/files/resources/d24fd9fa17ad5673de9cf6220c1c7a5a_1785189957/PCH_HEALTHCARE_ASSOCIATED_INFECTIONS_HOSPITAL.csv"
+        ]
+      },
+      "title": "Safety and Healthcare-Associated Infection Measures - PPS-Exempt Cancer Hospital"
+    },
+    "muwa-iene": {
+      "downloaded_at": "2026-10-29T13:44:13+00:00",
+      "files": [
+        {
+          "bytes_downloaded": 8915656,
+          "columns": [
+            "facility_id",
+            "facility_name",
+            "address",
+            "city_town",
+            "state",
+            "zip_code",
+            "county_parish",
+            "measure_id",
+            "measure_name",
+            "rate",
+            "footnote",
+            "start_date",
+            "end_date"
+          ],
+          "name": "cms_medicare_psi_90_and_component_measures_six_digit_estimate_dataset__muwa-iene.csv",
+          "url": "https://data.cms.gov/provider-data/sites/default/files/resources/84bd78c1b4e386185bcef2af963d8cf9_1785189947/CMS_PSI_6_decimal_file.csv"
+        }
+      ],
+      "fingerprint": {
+        "modified": "2026-07-22",
+        "released": "2026-08-13",
+        "urls": [
+          "https://data.cms.gov/provider-data/sites/default/files/resources/84bd78c1b4e386185bcef2af963d8cf9_1785189947/CMS_PSI_6_decimal_file.csv"
+        ]
+      },
+      "title": "CMS Medicare PSI-90 and component measures - six-digit estimate dataset"
+    },
+    "mxtu-43qs": {
+      "downloaded_at": "2026-10-29T13:44:16+00:00",
+      "files": [
+        {
+          "bytes_downloaded": 1296836,
+          "columns": [
+            "facility_id",
+            "facility_name",
+            "address",
+            "city_town",
+            "state",
+            "zip_code",
+            "county_parish",
+            "telephone_number",
+            "measure_id",
+            "measure_name",
+            "voluntary_reporting",
+            "score",
+            "footnote",
+            "start_date",
+            "end_date"
+          ],
+          "name": "patient_reported_outcomes_hospital__mxtu-43qs.csv",
+          "url": "https://data.cms.gov/provider-data/sites/default/files/resources/60ee1962356ca17e50e12f95d2871b46_1785189972/PATIENT_REPORTED_OUTCOMES_FACILITY.csv"
+        }
+      ],
+      "fingerprint": {
+        "modified": "2026-08-05",
+        "released": "2026-08-13",
+        "urls": [
+          "https://data.cms.gov/provider-data/sites/default/files/resources/60ee1962356ca17e50e12f95d2871b46_1785189972/PATIENT_REPORTED_OUTCOMES_FACILITY.csv"
+        ]
+      },
+      "title": "Patient-Reported Outcomes - Hospital"
+    },
+    "nrdb-3fcy": {
+      "downloaded_at": "2026-10-29T13:44:16+00:00",
+      "files": [
+        {
+          "bytes_downloaded": 3752821,
+          "columns": [
+            "facility_id",
+            "facility_name",
+            "address",
+            "city_town",
+            "state",
+            "zip_code",
+            "county_parish",
+            "telephone_number",
+            "measure_id",
+            "measure_name",
+            "score",
+            "sample",
+            "footnote",
+            "start_date",
+            "end_date"
+          ],
+          "name": "maternal_health_hospital__nrdb-3fcy.csv",
+          "url": "https://data.cms.gov/provider-data/sites/default/files/resources/5a4754b088fdb10d2ae278ef215925a7_1785189972/Maternal_Health-Hospital.csv"
+        }
+      ],
+      "fingerprint": {
+        "modified": "2026-07-22",
+        "released": "2026-08-13",
+        "urls": [
+          "https://data.cms.gov/provider-data/sites/default/files/resources/5a4754b088fdb10d2ae278ef215925a7_1785189972/Maternal_Health-Hospital.csv"
+        ]
+      },
+      "title": "Maternal Health - Hospital"
+    },
+    "nrth-mfg3": {
+      "downloaded_at": "2026-10-29T13:44:16+00:00",
+      "files": [
+        {
+          "bytes_downloaded": 9777544,
+          "columns": [
+            "facility_name",
+            "facility_id",
+            "state",
+            "period",
+            "claim_type",
+            "avg_spndg_per_ep_hospital",
+            "avg_spndg_per_ep_state",
+            "avg_spndg_per_ep_national",
+            "percent_of_spndg_hospital",
+            "percent_of_spndg_state",
+            "percent_of_spndg_national",
+            "start_date",
+            "end_date"
+          ],
+          "name": "medicare_hospital_spending_by_claim__nrth-mfg3.csv",
+          "url": "https://data.cms.gov/provider-data/sites/default/files/resources/1f8cde9e222d5d49f88a894bcf7a8981_1770163638/Medicare_Hospital_Spending_by_Claim.csv"
+        }
+      ],
+      "fingerprint": {
+        "modified": "2026-01-26",
+        "released": "2026-08-13",
+        "urls": [
+          "https://data.cms.gov/provider-data/sites/default/files/resources/1f8cde9e222d5d49f88a894bcf7a8981_1770163638/Medicare_Hospital_Spending_by_Claim.csv"
+        ]
+      },
+      "title": "Medicare Hospital Spending by Claim"
+    },
+    "ptds-r8im": {
+      "downloaded_at": "2026-10-29T13:44:16+00:00",
+      "files": [
+        {
+          "bytes_downloaded": 372304,
+          "columns": [
+            "facility_id",
+            "facility_name",
+            "address",
+            "city_town",
+            "state",
+            "zip_code",
+            "county_parish",
+            "telephone_number",
+            "condition",
+            "measure_id",
+            "measure_name",
+            "sttag",
+            "score",
+            "sample",
+            "footnote",
+            "start_date",
+            "end_date"
+          ],
+          "name": "veterans_health_administration_timely_and_effective_care_data__ptds-r8im.csv",
+          "url": "https://data.cms.gov/provider-data/sites/default/files/resources/07084088a9de9e44c51bef291a4e163a_1785189971/VA_TE.csv"
+        }
+      ],
+      "fingerprint": {
+        "modified": "2026-07-22",
+        "released": "2026-08-13",
+        "urls": [
+          "https://data.cms.gov/provider-data/sites/default/files/resources/07084088a9de9e44c51bef291a4e163a_1785189971/VA_TE.csv"
+        ]
+      },
+      "title": "Veterans Health Administration Timely and Effective Care Data"
+    },
+    "pudb-wetr": {
+      "downloaded_at": "2026-10-29T13:44:15+00:00",
+      "files": [
+        {
+          "bytes_downloaded": 1334947,
+          "columns": [
+            "fiscal_year",
+            "facility_id",
+            "facility_name",
+            "address",
+            "city_town",
+            "state",
+            "zip_code",
+            "county_parish",
+            "mort_30_ami_achievement_threshold",
+            "mort_30_ami_benchmark",
+            "mort_30_ami_baseline_rate",
+            "mort_30_ami_performance_rate",
+            "mort_30_ami_achievement_points",
+            "mort_30_ami_improvement_points",
+            "mort_30_ami_measure_score",
+            "mort_30_hf_achievement_threshold",
+            "mort_30_hf_benchmark",
+            "mort_30_hf_baseline_rate",
+            "mort_30_hf_performance_rate",
+            "mort_30_hf_achievement_points",
+            "mort_30_hf_improvement_points",
+            "mort_30_hf_measure_score",
+            "mort_30_pn_achievement_threshold",
+            "mort_30_pn_benchmark",
+            "mort_30_pn_baseline_rate",
+            "mort_30_pn_performance_rate",
+            "mort_30_pn_achievement_points",
+            "mort_30_pn_improvement_points",
+            "mort_30_pn_measure_score",
+            "mort_30_copd_achievement_threshold",
+            "mort_30_copd_benchmark",
+            "mort_30_copd_baseline_rate",
+            "mort_30_copd_performance_rate",
+            "mort_30_copd_achievement_points",
+            "mort_30_copd_improvement_points",
+            "mort_30_copd_measure_score",
+            "mort_30_cabg_achievement_threshold",
+            "mort_30_cabg_benchmark",
+            "mort_30_cabg_baseline_rate",
+            "mort_30_cabg_performance_rate",
+            "mort_30_cabg_achievement_points",
+            "mort_30_cabg_improvement_points",
+            "mort_30_cabg_measure_score",
+            "comp_hip_knee_achievement_threshold",
+            "comp_hip_knee_benchmark",
+            "comp_hip_knee_baseline_rate",
+            "comp_hip_knee_performance_rate",
+            "comp_hip_knee_achievement_points",
+            "comp_hip_knee_improvement_points",
+            "comp_hip_knee_measure_score"
+          ],
+          "name": "hospital_value_based_purchasing_hvbp_clinical_outcomes_domain_scores__pudb-wetr.csv",
+          "url": "https://data.cms.gov/provider-data/sites/default/files/resources/f5c74a8e8a0f2017f6e13b6fc517ae4e_1770163619/hvbp_clinical_outcomes.csv"
+        }
+      ],
+      "fingerprint": {
+        "modified": "2026-01-26",
+        "released": "2026-08-13",
+        "urls": [
+          "https://data.cms.gov/provider-data/sites/default/files/resources/f5c74a8e8a0f2017f6e13b6fc517ae4e_1770163619/hvbp_clinical_outcomes.csv"
+        ]
+      },
+      "title": "Hospital Value-Based Purchasing (HVBP) - Clinical Outcomes Domain Scores"
+    },
+    "q9vs-r7wp": {
+      "downloaded_at": "2026-10-29T13:44:15+00:00",
+      "files": [
+        {
+          "bytes_downloaded": 1650095,
+          "columns": [
+            "facility_id",
+            "facility_name",
+            "address",
+            "city_town",
+            "state",
+            "zip_code",
+            "county_parish",
+            "hbips_2_measure_description",
+            "hbips_2_overall_rate_per_1000",
+            "hbips_2_overall_num",
+            "hbips_2_overall_den",
+            "hbips_2_overall_footnote",
+            "hbips_3_measure_description",
+            "hbips_3_overall_rate_per_1000",
+            "hbips_3_overall_num",
+            "hbips_3_overall_den",
+            "hbips_3_overall_footnote",
+            "smd_measure_description",
+            "smd",
+            "smd_denominator",
+            "smd_footnote",
+            "sub_2_2a_measure_description",
+            "sub_2",
+            "sub_2_denominator",
+            "sub_2_footnote",
+            "sub_2a",
+            "sub_2a_denominator",
+            "sub_2a_footnote",
+            "sub_3_3a_measure_description",
+            "sub_3",
+            "sub_3_denominator",
+            "sub_3_footnote",
+            "sub_3a",
+            "sub_3a_denominator",
+            "sub_3a_footnote",
+            "tob_3_3a_measure_description",
+            "tob_3",
+            "tob_3_denominator",
+            "tob_3_footnote",
+            "tob_3a",
+            "tob_3a_denominator",
+            "tob_3a_footnote",
+            "tr_1_measure_description",
+            "tr_1",
+            "tr_1_denominator",
+            "tr_1_footnote",
+            "start_date",
+            "end_date",
+            "faph_measure_description",
+            "faph_30",
+            "faph_30_denominator",
+            "faph_30_footnote",
+            "faph_7",
+            "faph_7_denominator",
+            "faph_7_footnote",
+            "faph_measure_start_date",
+            "faph_measure_end_date",
+            "medcont_measure_desc",
+            "medcont",
+            "medcont_denominator",
+            "medcont_footnote",
+            "medcont_measure_start_date",
+            "medcont_measure_end_date",
+            "readm_30_ipf_measure_desc",
+            "readm_30_ipf_category",
+            "readm_30_ipf_denominator",
+            "readm_30_ipf_rate",
+            "readm_30_ipf_lower_estimate",
+            "readm_30_ipf_higher_estimate",
+            "readm_30_ipf_footnote",
+            "readm_30_ipf_start_date",
+            "readm_30_ipf_end_date",
+            "imm_2_measure_description",
+            "imm_2",
+            "imm_2_denominator",
+            "imm_2_footnote",
+            "flu_season_start_date",
+            "flu_season_end_date"
+          ],
+          "name": "inpatient_psychiatric_facility_quality_measure_data_by_facility__q9vs-r7wp.csv",
+          "url": "https://data.cms.gov/provider-data/sites/default/files/resources/e56cdbea2d002358610ebdb957cb35de_1785189962/IPFQR_QualityMeasures_Facility.csv"
+        }
+      ],
+      "fingerprint": {
+        "modified": "2026-07-22",
+        "released": "2026-08-13",
+        "urls": [
+          "https://data.cms.gov/provider-data/sites/default/files/resources/e56cdbea2d002358610ebdb957cb35de_1785189962/IPFQR_QualityMeasures_Facility.csv"
+        ]
+      },
+      "title": "Inpatient Psychiatric Facility Quality Measure Data - by Facility"
+    },
+    "qatj-nmws": {
+      "downloaded_at": "2026-10-29T13:44:15+00:00",
+      "files": [
+        {
+          "bytes_downloaded": 566997,
+          "columns": [
+            "state",
+            "measure_id",
+            "hcahps_question",
+            "hcahps_answer_description",
+            "hcahps_answer_percent",
+            "start_date",
+            "end_date"
+          ],
+          "name": "patient_survey_pch_hcahps_pps_exempt_cancer_hospital_state__qatj-nmws.csv",
+          "url": "https://data.cms.gov/provider-data/sites/default/files/resources/f1d65b1e3b562b932fd3827c7783ea35_1785189959/PCH_HCAHPS_STATE.csv"
+        }
+      ],
+      "fingerprint": {
+        "modified": "2026-07-22",
+        "released": "2026-08-13",
+        "urls": [
+          "https://data.cms.gov/provider-data/sites/default/files/resources/f1d65b1e3b562b932fd3827c7783ea35_1785189959/PCH_HCAHPS_STATE.csv"
+        ]
+      },
+      "title": "Patient Survey (PCH - HCAHPS) PPS-Exempt Cancer Hospital - State"
+    },
+    "qigt-w5cx": {
+      "downloaded_at": "2026-10-29T13:44:16+00:00",
+      "files": [
+        {
+          "bytes_downloaded": 555,
+          "columns": [
+            "measure_id",
+            "measure_description",
+            "national_rate",
+            "start_date",
+            "end_date"
+          ],
+          "name": "palliative_care_pps_exempt_cancer_hospital_national__qigt-w5cx.csv",
+          "url": "https://data.cms.gov/provider-data/sites/default/files/resources/b19666c7d9f040b0fffd9c7135a7d92d_1785189973/PCH_Palliative_Care_NATIONAL.csv"
+        }
+      ],
+      "fingerprint": {
+        "modified": "2026-07-22",
+        "released": "2026-08-13",
+        "urls": [
+          "https://data.cms.gov/provider-data/sites/default/files/resources/b19666c7d9f040b0fffd9c7135a7d92d_1785189973/PCH_Palliative_Care_NATIONAL.csv"
+        ]
+      },
+      "title": "Palliative Care - PPS-Exempt Cancer Hospital - National"
+    },
+    "qoeg-w7ck": {
+      "downloaded_at": "2026-10-29T13:44:16+00:00",
+      "files": [
+        {
+          "bytes_downloaded": 10879,
+          "columns": [
+            "facility_id",
+            "facility_name",
+            "hospital_type",
+            "address",
+            "city_town",
+            "state",
+            "zip_code",
+            "county_parish",
+            "measure_id",
+            "measure_description",
+            "total_cases",
+            "rate",
+            "footnote",
+            "start_date",
+            "end_date"
+          ],
+          "name": "palliative_care_pps_exempt_cancer_hospital_hospital__qoeg-w7ck.csv",
+          "url": "https://data.cms.gov/provider-data/sites/default/files/resources/2d420234bc6bcc963c6c374d91b0ed90_1785189973/PCH_Palliative_Care_HOSPITAL.csv"
+        }
+      ],
+      "fingerprint": {
+        "modified": "2026-07-22",
+        "released": "2026-08-13",
+        "urls": [
+          "https://data.cms.gov/provider-data/sites/default/files/resources/2d420234bc6bcc963c6c374d91b0ed90_1785189973/PCH_Palliative_Care_HOSPITAL.csv"
+        ]
+      },
+      "title": "Palliative Care - PPS-Exempt Cancer Hospital - Hospital"
+    },
+    "qqw3-t4ie": {
+      "downloaded_at": "2026-10-29T13:44:13+00:00",
+      "files": [
+        {
+          "bytes_downloaded": 2458,
+          "columns": [
+            "measure_id",
+            "measure_name",
+            "national_rate",
+            "number_of_hospitals_worse",
+            "number_of_hospitals_same",
+            "number_of_hospitals_better",
+            "number_of_hospitals_too_few",
+            "footnote",
+            "start_date",
+            "end_date"
+          ],
+          "name": "complications_and_deaths_national__qqw3-t4ie.csv",
+          "url": "https://data.cms.gov/provider-data/sites/default/files/resources/aba37eca11edcd4272afff9e6dc78bda_1790013957/Complications_and_Deaths-National.csv"
+        }
+      ],
+      "fingerprint": {
+        "modified": "2026-09-10",
+        "released": "2026-09-30",
+        "urls": [
+          "https://data.cms.gov/provider-data/sites/default/files/resources/aba37eca11edcd4272afff9e6dc78bda_1790013957/Complications_and_Deaths-National.csv"
+        ]
+      },
+      "title": "Complications and Deaths - National"
+    },
+    "rrqw-56er": {
+      "downloaded_at": "2026-10-29T13:44:15+00:00",
+      "files": [
+        {
+          "bytes_downloaded": 990892,
+          "columns": [
+            "facility_id",
+            "facility_name",
+            "address",
+            "city_town",
+            "state",
+            "zip_code",
+            "county_parish",
+            "telephone_number",
+            "measure_id",
+            "measure_name",
+            "score",
+            "footnote",
+            "start_date",
+            "end_date"
+          ],
+          "name": "medicare_spending_per_beneficiary_hospital__rrqw-56er.csv",
+          "url": "https://data.cms.gov/provider-data/sites/default/files/resources/69874ce604586980ac088283c1b35095_1785189964/Medicare_Hospital_Spending_Per_Patient-Hospital.csv"
+        }
+      ],
+      "fingerprint": {
+        "modified": "2026-07-22",
+        "released": "2026-08-13",
+        "urls": [
+          "https://data.cms.gov/provider-data/sites/default/files/resources/69874ce604586980ac088283c1b35095_1785189964/Medicare_Hospital_Spending_Per_Patient-Hospital.csv"
+        ]
+      },
+      "title": "Medicare Spending Per Beneficiary - Hospital"
+    },
+    "rs6n-9qwg": {
+      "downloaded_at": "2026-10-29T13:44:15+00:00",
+      "files": [
+        {
+          "bytes_downloaded": 6540,
+          "columns": [
+            "state",
+            "measure_id",
+            "measure_name",
+            "score",
+            "footnote",
+            "start_date",
+            "end_date"
+          ],
+          "name": "medicare_spending_per_beneficiary_state__rs6n-9qwg.csv",
+          "url": "https://data.cms.gov/provider-data/sites/default/files/resources/b53c8e7d24557eb1e898557e4c7d7484_1785189965/Medicare_Hospital_Spending_Per_Patient-State.csv"
+        }
+      ],
+      "fingerprint": {
+        "modified": "2026-07-22",
+        "released": "2026-08-13",
+        "urls": [
+          "https://data.cms.gov/provider-data/sites/default/files/resources/b53c8e7d24557eb1e898557e4c7d7484_1785189965/Medicare_Hospital_Spending_Per_Patient-State.csv"
+        ]
+      },
+      "title": "Medicare Spending Per Beneficiary - State"
+    },
+    "s5pj-hua3": {
+      "downloaded_at": "2026-10-29T13:44:14+00:00",
+      "files": [
+        {
+          "bytes_downloaded": 3374,
+          "columns": [
+            "oas_cahps_measure_id",
+            "oas_cahps_question",
+            "oas_cahps_answer_description",
+            "oas_cahps_answer_percent",
+            "oas_cahps_answer_percent_footnote",
+            "start_date",
+            "end_date"
+          ],
+          "name": "outpatient_and_ambulatory_surgery_consumer_assessment_of_healthcare_providers_an__s5pj-hua3.csv",
+          "url": "https://data.cms.gov/provider-data/sites/default/files/resources/fdc286f2f60134775fa4b7f7b249b075_1785189954/OQR_OAS_CAHPS_NATIONAL.csv"
+        }
+      ],
+      "fingerprint": {
+        "modified": "2026-07-22",
+        "released": "2026-08-13",
+        "urls": [
+          "https://data.cms.gov/provider-data/sites/default/files/resources/fdc286f2f60134775fa4b7f7b249b075_1785189954/OQR_OAS_CAHPS_NATIONAL.csv"
+        ]
+      },
+      "title": "Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey for hospital outpatient departments - National"
+    },
+    "s5xg-sys6": {
+      "downloaded_at": "2026-10-29T13:44:15+00:00",
+      "files": [
+        {
+          "bytes_downloaded": 2187,
+          "columns": [
+            "hbips_2_measure_description",
+            "n_hbips_2_overall_rate_per_1000",
+            "n_hbips_2_overall_num",
+            "n_hbips_2_overall_den",
+            "hbips_3_measure_description",
+            "n_hbips_3_overall_rate_per_1000",
+            "n_hbips_3_overall_num",
+            "n_hbips_3_overall_den",
+            "smd_measure_description",
+            "n_smd",
+            "smd_top_10",
+            "sub_2_2a_measure_description",
+            "n_sub_2",
+            "sub_2_top_10",
+            "n_sub_2a",
+            "sub_2a_top_10",
+            "sub_3_3a_measure_description",
+            "n_sub_3",
+            "sub_3_top_10",
+            "n_sub_3a",
+            "sub_3a_top_10",
+            "tob_3_3a_measure_description",
+            "n_tob_3",
+            "tob_3_top_10",
+            "n_tob_3a",
+            "tob_3a_top_10",
+            "tr_1_measure_description",
+            "n_tr_1",
+            "tr_1_top_10",
+            "start_date",
+            "end_date",
+            "faph_measure_description",
+            "n_faph_30",
+            "faph_30_top_10",
+            "n_faph_7",
+            "faph_7_top_10",
+            "faph_measure_start_date",
+            "faph_measure_end_date",
+            "medcont_measure_description",
+            "medcont",
+            "medcont_top_10",
+            "n_medcont_measure_start_date",
+            "n_medcont_measure_end_date",
+            "readm_30_ipf_measure_desc",
+            "readm_30_ipf_national_rate",
+            "n_readm_30_ipf_ipfs_worse",
+            "n_readm_30_ipf_ipfs_same",
+            "n_readm_30_ipf_ipfs_better",
+            "n_readm_30_ipf_ipfs_too_few",
+            "readm_30_ipf_start_date",
+            "readm_30_ipf_end_date",
+            "imm_2_measure_description",
+            "n_imm_2",
+            "imm_2_top_10",
+            "flu_season_start_date",
+            "flu_season_end_date"
+          ],
+          "name": "inpatient_psychiatric_facility_quality_measure_data_national__s5xg-sys6.csv",
+          "url": "https://data.cms.gov/provider-data/sites/default/files/resources/463e16600bec8c0aeb75ebfaef253ab7_1785189962/IPFQR_QualityMeasures_National.csv"
+        }
+      ],
+      "fingerprint": {
+        "modified": "2026-07-22",
+        "released": "2026-08-13",
+        "urls": [
+          "https://data.cms.gov/provider-data/sites/default/files/resources/463e16600bec8c0aeb75ebfaef253ab7_1785189962/IPFQR_QualityMeasures_National.csv"
+        ]
+      },
+      "title": "Inpatient Psychiatric Facility Quality Measure Data - National"
+    },
+    "su9h-3pvj": {
+      "downloaded_at": "2026-10-29T13:44:15+00:00",
+      "files": [
+        {
+          "bytes_downloaded": 397526,
+          "columns": [
+            "fiscal_year",
+            "facility_id",
+            "facility_name",
+            "address",
+            "city_town",
+            "state",
+            "zip_code",
+            "county_parish",
+            "mspb_1_achievement_threshold",
+            "mspb_1_benchmark",
+            "mspb_1_baseline_rate",
+            "mspb_1_performance_rate",
+            "mspb_1_achievement_points",
+            "mspb_1_improvement_points",
+            "mspb_1_measure_score"
+          ],
+          "name": "hospital_value_based_purchasing_hvbp_efficiency_scores__su9h-3pvj.csv",
+          "url": "https://data.cms.gov/provider-data/sites/default/files/resources/46325dbbe6d2f654ecbb5046059c664e_1770163621/hvbp_efficiency_and_cost_reduction.csv"
+        }
+      ],
+      "fingerprint": {
+        "modified": "2026-01-26",
+        "released": "2026-08-13",
+        "urls": [
+          "https://data.cms.gov/provider-data/sites/default/files/resources/46325dbbe6d2f654ecbb5046059c664e_1770163621/hvbp_efficiency_and_cost_reduction.csv"
+        ]
+      },
+      "title": "Hospital Value-Based Purchasing (HVBP) - Efficiency Scores"
+    },
+    "tf3h-mrrs": {
+      "downloaded_at": "2026-10-29T13:44:13+00:00",
+      "files": [
+        {
+          "bytes_downloaded": 1609,
+          "columns": [
+            "patients_who_reported_that_staff_definitely_gave_care_in_a_professional_way_and_the_facility_was_clean",
+            "patients_who_reported_that_staff_somewhat_gave_care_in_a_professional_way_or_the_facility_was_somewhat_clean",
+            "patients_who_reported_that_staff_did_not_give_care_in_a_professional_way_or_the_facility_was_not_clean",
+            "facilities_and_staff_linear_mean_score",
+            "patients_who_reported_that_staff_definitely_communicated_about_what_to_expect_during_and_after_the_procedure",
+            "patients_who_reported_that_staff_somewhat_communicated_about_what_to_expect_during_and_after_the_procedure",
+            "patients_who_reported_that_staff_did_not_communicate_about_what_to_expect_during_and_after_the_procedure",
+            "communication_about_your_procedure_linear_mean_score",
+            "patients_who_gave_the_facility_a_rating_of_9_or_10_on_a_scale_from_0_lowest_to_10_highest",
+            "patients_who_gave_the_facility_a_rating_of_7_or_8_on_a_scale_from_0_lowest_to_10_highest",
+            "patients_who_gave_the_facility_a_rating_of_0_to_6_on_a_scale_from_0_lowest_to_10_highest",
+            "patients_rating_of_the_facility_linear_mean_score",
+            "patients_who_reported_yes_they_would_definitely_recommend_the_facility_to_family_or_friends",
+            "patients_who_reported_probably_yes_they_would_recommend_the_facility_to_family_or_friends",
+            "patients_who_reported_no_they_would_not_recommend_the_facility_to_family_or_friends",
+            "patients_recommending_the_facility_linear_mean_score",
+            "number_of_sampled_patients",
+            "number_of_completed_surveys",
+            "survey_response_rate_percent",
+            "start_date",
+            "end_date"
+          ],
+          "name": "outpatient_and_ambulatory_surgery_consumer_assessment_of_healthcare_providers_an__tf3h-mrrs.csv",
+          "url": "https://data.cms.gov/provider-data/sites/default/files/resources/65a38069cc48376e9f519a3609424537_1785189945/ASCQR_OAS_CAHPS_NATIONAL.csv"
+        }
+      ],
+      "fingerprint": {
+        "modified": "2026-07-22",
+        "released": "2026-08-13",
+        "urls": [
+          "https://data.cms.gov/provider-data/sites/default/files/resources/65a38069cc48376e9f519a3609424537_1785189945/ASCQR_OAS_CAHPS_NATIONAL.csv"
+        ]
+      },
+      "title": "Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey for ambulatory surgical centers - National"
+    },
+    "tqkv-mgxq": {
+      "downloaded_at": "2026-10-29T13:44:13+00:00",
+      "files": [
+        {
+          "bytes_downloaded": 53863,
+          "columns": [
+            "facility_id",
+            "facility_name",
+            "msa",
+            "msa_title",
+            "hcahps_hlmr",
+            "hcahps_hlmr_percentile",
+            "hcahps_start_date",
+            "hcahps_end_date",
+            "hcahps_footnote",
+            "comp_hip_knee",
+            "comp_hip_knee_percentile",
+            "comp_start_date",
+            "comp_end_date",
+            "comp_footnote",
+            "pro",
+            "pro_start_date",
+            "pro_end_date",
+            "reconciliation_footnote"
+          ],
+          "name": "comprehensive_care_for_joint_replacement_model_provider_data__tqkv-mgxq.csv",
+          "url": "https://data.cms.gov/provider-data/sites/default/files/resources/c1017e56164f4774560619c9020116fa_1770163562/CJR_Quality_Reporting_January_2026_Production_File.csv"
+        }
+      ],
+      "fingerprint": {
+        "modified": "2026-01-26",
+        "released": "2026-08-13",
+        "urls": [
+          "https://data.cms.gov/provider-data/sites/default/files/resources/c1017e56164f4774560619c9020116fa_1770163562/CJR_Quality_Reporting_January_2026_Production_File.csv"
+        ]
+      },
+      "title": "Comprehensive Care For Joint Replacement Model - Provider Data"
+    },
+    "u625-zae7": {
+      "downloaded_at": "2026-10-29T13:44:14+00:00",
+      "files": [
+        {
+          "bytes_downloaded": 504,
+          "columns": [
+            "change_in_base_operating_drg_payment_amount",
+            "number_of_hospitals_receiving_this_change"
+          ],
+          "name": "table_3_fy2024_percent_change_in_medicare_payments__u625-zae7.csv",
+          "url": "https://data.cms.gov/provider-data/sites/default/files/resources/3d267e89dc34ca3a928554b9c73775ef_1770163577/FY2024_Percent_Change_in_Medicare_Payments.csv"
+        }
+      ],
+      "fingerprint": {
+        "modified": "2025-12-09",
+        "released": "2026-08-13",
+        "urls": [
+          "https://data.cms.gov/provider-data/sites/default/files/resources/3d267e89dc34ca3a928554b9c73775ef_1770163577/FY2024_Percent_Change_in_Medicare_Payments.csv"
+        ]
+      },
+      "title": "Table 3: FY2024 Percent Change in Medicare Payments"
+    },
+    "uk3n-au7a": {
+      "downloaded_at": "2026-10-29T13:44:16+00:00",
+      "files": [
+        {
+          "bytes_downloaded": 320,
+          "columns": [
+            "measure_id",
+            "measure_name",
+            "national_rate",
+            "number_of_hospitals_worse",
+            "number_of_hospitals_same",
+            "number_of_hospitals_better",
+            "number_of_hospitals_too_few",
+            "footnote",
+            "start_date",
+            "end_date"
+          ],
+          "name": "rural_emergency_hospital_unplanned_hospital_visits_national__uk3n-au7a.csv",
+          "url": "https://data.cms.gov/provider-data/sites/default/files/resources/ab50380fe5f8578c9b07e118dcdc43e4_1785189979/REH_Unplanned_Hospital_Visits-National.csv"
+        }
+      ],
+      "fingerprint": {
+        "modified": "2026-07-22",
+        "released": "2026-08-13",
+        "urls": [
+          "https://data.cms.gov/provider-data/sites/default/files/resources/ab50380fe5f8578c9b07e118dcdc43e4_1785189979/REH_Unplanned_Hospital_Visits-National.csv"
+        ]
+      },
+      "title": "Rural Emergency Hospital Unplanned Hospital Visits - National"
+    },
+    "uyx4-5s7f": {
+      "downloaded_at": "2026-10-29T13:44:16+00:00",
+      "files": [
+        {
+          "bytes_downloaded": 24376,
+          "columns": [
+            "facility_id",
+            "facility_name",
+            "address",
+            "city_town",
+            "state",
+            "zip_code",
+            "county_parish",
+            "telephone_number",
+            "hospital_type",
+            "hospital_ownership",
+            "emergency_services",
+            "hospital_overall_rating",
+            "hospital_overall_rating_footnote"
+          ],
+          "name": "veterans_health_administration_provider_level_data__uyx4-5s7f.csv",
+          "url": "https://data.cms.gov/provider-data/sites/default/files/resources/9cea8696850b78e02559183bd6071fd6_1785189971/Veterans_Health_Administration_Provider_Level_Data.csv"
+        }
+      ],
+      "fingerprint": {
+        "modified": "2026-07-22",
+        "released": "2026-08-13",
+        "urls": [
+          "https://data.cms.gov/provider-data/sites/default/files/resources/9cea8696850b78e02559183bd6071fd6_1785189971/Veterans_Health_Administration_Provider_Level_Data.csv"
+        ]
+      },
+      "title": "Veterans Health Administration Provider Level Data"
+    },
+    "vtqa-m4zn": {
+      "downloaded_at": "2026-10-29T13:44:14+00:00",
+      "files": [
+        {
+          "bytes_downloaded": 767,
+          "columns": [
+            "incentive_payment_range",
+            "number_of_hospitals_receiving_this_range"
+          ],
+          "name": "table_4_fy2024_value_based_incentive_payment_amount__vtqa-m4zn.csv",
+          "url": "https://data.cms.gov/provider-data/sites/default/files/resources/ba15e25a73a051dbb3435458af7eb96d_1770163578/FY2024_Value_Based_Incentive_Payment_Amount.csv"
+        }
+      ],
+      "fingerprint": {
+        "modified": "2025-12-09",
+        "released": "2026-08-13",
+        "urls": [
+          "https://data.cms.gov/provider-data/sites/default/files/resources/ba15e25a73a051dbb3435458af7eb96d_1770163578/FY2024_Value_Based_Incentive_Payment_Amount.csv"
+        ]
+      },
+      "title": "Table 4: FY2024 Value-Based Incentive Payment Amount"
+    },
+    "wkfw-kthe": {
+      "downloaded_at": "2026-10-29T13:44:15+00:00",
+      "files": [
+        {
+          "bytes_downloaded": 1594062,
+          "columns": [
+            "facility_id",
+            "facility_name",
+            "address",
+            "city_town",
+            "state",
+            "zip_code",
+            "county_parish",
+            "telephone_number",
+            "measure_id",
+            "measure_name",
+            "score",
+            "footnote",
+            "start_date",
+            "end_date"
+          ],
+          "name": "outpatient_imaging_efficiency_hospital__wkfw-kthe.csv",
+          "url": "https://data.cms.gov/provider-data/sites/default/files/resources/d0134a9a89e59d49426cf5a2ad063b60_1785189966/Outpatient_Imaging_Efficiency-Hospital.csv"
+        }
+      ],
+      "fingerprint": {
+        "modified": "2026-07-22",
+        "released": "2026-08-13",
+        "urls": [
+          "https://data.cms.gov/provider-data/sites/default/files/resources/d0134a9a89e59d49426cf5a2ad063b60_1785189966/Outpatient_Imaging_Efficiency-Hospital.csv"
+        ]
+      },
+      "title": "Outpatient Imaging Efficiency - Hospital"
+    },
+    "wue8-3vwe": {
+      "downloaded_at": "2026-10-29T13:44:13+00:00",
+      "files": [
+        {
+          "bytes_downloaded": 851,
+          "columns": [
+            "year",
+            "avg_asc_1_nat_rate",
+            "median_asc_1_nat_rate",
+            "avg_asc_2_nat_rate",
+            "median_asc_2_nat_rate",
+            "avg_asc_3_nat_rate",
+            "median_asc_3_nat_rate",
+            "avg_asc_4_nat_rate",
+            "median_asc_4_nat_rate",
+            "avg_asc_9_nat_rate",
+            "median_asc_9_nat_rate",
+            "avg_asc_11_nat_rate",
+            "median_asc_11_nat_rate",
+            "asc_12_nat_rate",
+            "asc_12_better",
+            "asc_12_no_different",
+            "asc_12_worse",
+            "asc_12_too_small",
+            "avg_asc_13_nat_rate",
+            "median_asc_13_nat_rate",
+            "avg_asc_14_nat_rate",
+            "median_asc_14_nat_rate",
+            "asc_17_nat_rate",
+            "asc_17_better",
+            "asc_17_no_different",
+            "asc_17_worse",
+            "asc_17_too_small",
+            "asc_18_nat_rate",
+            "asc_18_better",
+            "asc_18_no_different",
+            "asc_18_worse",
+            "asc_18_too_small",
+            "asc_19_nat_rate",
+            "asc_19_better",
+            "asc_19_no_different",
+            "asc_19_worse",
+            "asc_19_too_small"
+          ],
+          "name": "ambulatory_surgical_center_quality_measures_national__wue8-3vwe.csv",
+          "url": "https://data.cms.gov/provider-data/sites/default/files/resources/43dcc3212bfab34ac186ac2e19196b09_1770163554/ASC_National.csv"
+        }
+      ],
+      "fingerprint": {
+        "modified": "2025-12-16",
+        "released": "2026-08-13",
+        "urls": [
+          "https://data.cms.gov/provider-data/sites/default/files/resources/43dcc3212bfab34ac186ac2e19196b09_1770163554/ASC_National.csv"
+        ]
+      },
+      "title": "Ambulatory Surgical Center Quality Measures - National"
+    },
+    "x663-bwbj": {
+      "downloaded_at": "2026-10-29T13:44:13+00:00",
+      "files": [
+        {
+          "bytes_downloaded": 6292,
+          "columns": [
+            "state",
+            "patients_who_reported_that_staff_definitely_gave_care_in_a_professional_way_and_the_facility_was_clean",
+            "patients_who_reported_that_staff_somewhat_gave_care_in_a_professional_way_or_the_facility_was_somewhat_clean",
+            "patients_who_reported_that_staff_did_not_give_care_in_a_professional_way_or_the_facility_was_not_clean",
+            "facilities_and_staff_linear_mean_score",
+            "patients_who_reported_that_staff_definitely_communicated_about_what_to_expect_during_and_after_the_procedure",
+            "patients_who_reported_that_staff_somewhat_communicated_about_what_to_expect_during_and_after_the_procedure",
+            "patients_who_reported_that_staff_did_not_communicate_about_what_to_expect_during_and_after_the_procedure",
+            "communication_about_your_procedure_linear_mean_score",
+            "patients_who_gave_the_facility_a_rating_of_9_or_10_on_a_scale_from_0_lowest_to_10_highest",
+            "patients_who_gave_the_facility_a_rating_of_7_or_8_on_a_scale_from_0_lowest_to_10_highest",
+            "patients_who_gave_the_facility_a_rating_of_0_to_6_on_a_scale_from_0_lowest_to_10_highest",
+            "patients_rating_of_the_facility_linear_mean_score",
+            "patients_who_reported_yes_they_would_definitely_recommend_the_facility_to_family_or_friends",
+            "patients_who_reported_probably_yes_they_would_recommend_the_facility_to_family_or_friends",
+            "patients_who_reported_no_they_would_not_recommend_the_facility_to_family_or_friends",
+            "patients_recommending_the_facility_linear_mean_score",
+            "number_of_sampled_patients",
+            "number_of_completed_surveys",
+            "survey_response_rate_percent",
+            "start_date",
+            "end_date"
+          ],
+          "name": "outpatient_and_ambulatory_surgery_consumer_assessment_of_healthcare_providers_an__x663-bwbj.csv",
+          "url": "https://data.cms.gov/provider-data/sites/default/files/resources/f086b4b7fc9d628f08e70ade47dff3c5_1785189946/ASCQR_OAS_CAHPS_STATE.csv"
+        }
+      ],
+      "fingerprint": {
+        "modified": "2026-07-22",
+        "released": "2026-08-13",
+        "urls": [
+          "https://data.cms.gov/provider-data/sites/default/files/resources/f086b4b7fc9d628f08e70ade47dff3c5_1785189946/ASCQR_OAS_CAHPS_STATE.csv"
+        ]
+      },
+      "title": "Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey for ambulatory surgical centers - State"
+    },
+    "xrgf-x36b": {
+      "downloaded_at": "2026-10-29T13:44:13+00:00",
+      "files": [
+        {
+          "bytes_downloaded": 263,
+          "columns": [
+            "percentile",
+            "net_change_in_base_operating_drg_payment_amount"
+          ],
+          "name": "table_2_fy2024_distribution_of_net_change_in_base_operating_drg_payment_amount__xrgf-x36b.csv",
+          "url": "https://data.cms.gov/provider-data/sites/default/files/resources/c9c4b48e76ed7ca1e965bd39959d497b_1770163573/FY2024_Distribution_of_Net_Change_in_Base_Op_DRG_Payment_Amt.csv"
+        }
+      ],
+      "fingerprint": {
+        "modified": "2025-12-09",
+        "released": "2026-08-13",
+        "urls": [
+          "https://data.cms.gov/provider-data/sites/default/files/resources/c9c4b48e76ed7ca1e965bd39959d497b_1770163573/FY2024_Distribution_of_Net_Change_in_Base_Op_DRG_Payment_Amt.csv"
+        ]
+      },
+      "title": "Table 2: FY2024 Distribution of Net Change in Base Operating DRG Payment Amount"
+    },
+    "xubh-q36u": {
+      "downloaded_at": "2026-10-29T13:44:14+00:00",
+      "files": [
+        {
+          "bytes_downloaded": 1450767,
+          "columns": [
+            "facility_id",
+            "facility_name",
+            "address",
+            "city_town",
+            "state",
+            "zip_code",
+            "county_parish",
+            "telephone_number",
+            "hospital_type",
+            "hospital_ownership",
+            "emergency_services",
+            "meets_criteria_for_birthing_friendly_designation",
+            "hospital_overall_rating",
+            "hospital_overall_rating_footnote",
+            "mort_group_measure_count",
+            "count_of_facility_mort_measures",
+            "count_of_mort_measures_better",
+            "count_of_mort_measures_no_different",
+            "count_of_mort_measures_worse",
+            "mort_group_footnote",
+            "safety_group_measure_count",
+            "count_of_facility_safety_measures",
+            "count_of_safety_measures_better",
+            "count_of_safety_measures_no_different",
+            "count_of_safety_measures_worse",
+            "safety_group_footnote",
+            "readm_group_measure_count",
+            "count_of_facility_readm_measures",
+            "count_of_readm_measures_better",
+            "count_of_readm_measures_no_different",
+            "count_of_readm_measures_worse",
+            "readm_group_footnote",
+            "pt_exp_group_measure_count",
+            "count_of_facility_pt_exp_measures",
+            "pt_exp_group_footnote",
+            "te_group_measure_count",
+            "count_of_facility_te_measures",
+            "te_group_footnote"
+          ],
+          "name": "hospital_general_information__xubh-q36u.csv",
+          "url": "https://data.cms.gov/provider-data/sites/default/files/resources/893c372430d9d71a1c52737d01239d47_1785189955/Hospital_General_Information.csv"
+        }
+      ],
+      "fingerprint": {
+        "modified": "2026-07-22",
+        "released": "2026-08-13",
+        "urls": [
+          "https://data.cms.gov/provider-data/sites/default/files/resources/893c372430d9d71a1c52737d01239d47_1785189955/Hospital_General_Information.csv"
+        ]
+      },
+      "title": "Hospital General Information"
+    },
+    "y9us-9xdf": {
+      "downloaded_at": "2026-10-29T13:44:13+00:00",
+      "files": [
+        {
+          "bytes_downloaded": 3456,
+          "columns": [
+            "footnote",
+            "footnote_text"
+          ],
+          "name": "footnote_crosswalk__y9us-9xdf.csv",
+          "url": "https://data.cms.gov/provider-data/sites/default/files/resources/f29bb7c812e242f6edfef0a4b7d0eaca_1760630713/Footnote_Crosswalk.csv"
+        }
+      ],
+      "fingerprint": {
+        "modified": "2025-09-18",
+        "released": "2026-08-13",
+        "urls": [
+          "https://data.cms.gov/provider-data/sites/default/files/resources/f29bb7c812e242f6edfef0a4b7d0eaca_1760630713/Footnote_Crosswalk.csv"
+        ]
+      },
+      "title": "Footnote Crosswalk"
+    },
+    "yd3s-jyhd": {
+      "downloaded_at": "2026-10-29T13:44:14+00:00",
+      "files": [
+        {
+          "bytes_downloaded": 517,
+          "columns": [
+            "measure_id",
+            "measure_name",
+            "score",
+            "footnote",
+            "start_date",
+            "end_date"
+          ],
+          "name": "healthcare_associated_infections_national__yd3s-jyhd.csv",
+          "url": "https://data.cms.gov/provider-data/sites/default/files/resources/a87585b27c50c3899eec6a857958a5f0_1785189953/Healthcare_Associated_Infections-National.csv"
+        }
+      ],
+      "fingerprint": {
+        "modified": "2026-07-22",
+        "released": "2026-08-13",
+        "urls": [
+          "https://data.cms.gov/provider-data/sites/default/files/resources/a87585b27c50c3899eec6a857958a5f0_1785189953/Healthcare_Associated_Infections-National.csv"
+        ]
+      },
+      "title": "Healthcare Associated Infections - National"
+    },
+    "yizn-abxn": {
+      "downloaded_at": "2026-10-29T13:44:15+00:00",
+      "files": [
+        {
+          "bytes_downloaded": 30552770,
+          "columns": [
+            "facility_id",
+            "facility_name",
+            "address",
+            "city_town",
+            "state",
+            "zip_code",
+            "county_parish",
+            "telephone_number",
+            "oas_cahps_measure_id",
+            "oas_cahps_question",
+            "oas_cahps_answer_description",
+            "oas_cahps_answer_percent",
+            "oas_cahps_answer_percent_footnote",
+            "oas_cahps_linear_mean_value",
+            "number_of_completed_surveys",
+            "number_of_completed_surveys_footnote",
+            "survey_response_rate_percent",
+            "survey_response_rate_percent_footnote",
+            "start_date",
+            "end_date"
+          ],
+          "name": "outpatient_and_ambulatory_surgery_consumer_assessment_of_healthcare_providers_an__yizn-abxn.csv",
+          "url": "https://data.cms.gov/provider-data/sites/default/files/resources/9189f27bb8ab7a4ff8919bdc682bf79a_1785189954/OQR_OAS_CAHPS_BY_HOSPITAL.csv"
+        }
+      ],
+      "fingerprint": {
+        "modified": "2026-07-22",
+        "released": "2026-08-13",
+        "urls": [
+          "https://data.cms.gov/provider-data/sites/default/files/resources/9189f27bb8ab7a4ff8919bdc682bf79a_1785189954/OQR_OAS_CAHPS_BY_HOSPITAL.csv"
+        ]
+      },
+      "title": "Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey for hospital outpatient departments - Facility"
+    },
+    "ynj2-r877": {
+      "downloaded_at": "2026-10-29T13:44:14+00:00",
+      "files": [
+        {
+          "bytes_downloaded": 22813123,
+          "columns": [
+            "facility_id",
+            "facility_name",
+            "address",
+            "city_town",
+            "state",
+            "zip_code",
+            "county_parish",
+            "telephone_number",
+            "measure_id",
+            "measure_name",
+            "compared_to_national",
+            "denominator",
+            "score",
+            "lower_estimate",
+            "higher_estimate",
+            "footnote",
+            "start_date",
+            "end_date"
+          ],
+          "name": "complications_and_deaths_hospital__ynj2-r877.csv",
+          "url": "https://data.cms.gov/provider-data/sites/default/files/resources/6af7c44d77436e5a1caac3ce39a83fe9_1790013956/Complications_and_Deaths-Hospital.csv"
+        }
+      ],
+      "fingerprint": {
+        "modified": "2026-09-10",
+        "released": "2026-09-30",
+        "urls": [
+          "https://data.cms.gov/provider-data/sites/default/files/resources/6af7c44d77436e5a1caac3ce39a83fe9_1790013956/Complications_and_Deaths-Hospital.csv"
+        ]
+      },
+      "title": "Complications and Deaths - Hospital"
+    },
+    "ypbt-wvdk": {
+      "downloaded_at": "2026-10-29T13:44:15+00:00",
+      "files": [
+        {
+          "bytes_downloaded": 568036,
+          "columns": [
+            "fiscal_year",
+            "facility_id",
+            "facility_name",
+            "address",
+            "city_town",
+            "state",
+            "zip_code",
+            "county_parish",
+            "unweighted_normalized_clinical_outcomes_domain_score",
+            "weighted_normalized_clinical_outcomes_domain_score",
+            "unweighted_person_and_community_engagement_domain_score",
+            "weighted_person_and_community_engagement_domain_score",
+            "unweighted_normalized_safety_domain_score",
+            "weighted_safety_domain_score",
+            "unweighted_normalized_efficiency_and_cost_reduction_domain_score",
+            "weighted_efficiency_and_cost_reduction_domain_score",
+            "total_performance_score"
+          ],
+          "name": "hospital_value_based_purchasing_hvbp_total_performance_score__ypbt-wvdk.csv",
+          "url": "https://data.cms.gov/provider-data/sites/default/files/resources/5551d4839c1dd75e3f7fe1310a1e2369_1770163628/hvbp_tps.csv"
+        }
+      ],
+      "fingerprint": {
+        "modified": "2026-01-26",
+        "released": "2026-08-13",
+        "urls": [
+          "https://data.cms.gov/provider-data/sites/default/files/resources/5551d4839c1dd75e3f7fe1310a1e2369_1770163628/hvbp_tps.csv"
+        ]
+      },
+      "title": "Hospital Value-Based Purchasing (HVBP) - Total Performance Score"
+    },
+    "yq43-i98g": {
+      "downloaded_at": "2026-10-29T13:44:14+00:00",
+      "files": [
+        {
+          "bytes_downloaded": 595701,
+          "columns": [
+            "facility_name",
+            "facility_id",
+            "state",
+            "fiscal_year",
+            "psi_90_composite_value",
+            "psi_90_composite_value_footnote",
+            "psi_90_w_z_score",
+            "psi_90_w_z_footnote",
+            "psi_90_start_date",
+            "psi_90_end_date",
+            "clabsi_sir",
+            "clabsi_sir_footnote",
+            "clabsi_w_z_score",
+            "clabsi_w_z_footnote",
+            "cauti_sir",
+            "cauti_sir_footnote",
+            "cauti_w_z_score",
+            "cauti_w_z_footnote",
+            "ssi_sir",
+            "ssi_sir_footnote",
+            "ssi_w_z_score",
+            "ssi_w_z_footnote",
+            "cdi_sir",
+            "cdi_sir_footnote",
+            "cdi_w_z_score",
+            "cdi_w_z_footnote",
+            "mrsa_sir",
+            "mrsa_sir_footnote",
+            "mrsa_w_z_score",
+            "mrsa_w_z_footnote",
+            "hai_measures_start_date",
+            "hai_measures_end_date",
+            "total_hac_score",
+            "total_hac_score_footnote",
+            "payment_reduction",
+            "payment_reduction_footnote"
+          ],
+          "name": "hospital_acquired_condition_hac_reduction_program__yq43-i98g.csv",
+          "url": "https://data.cms.gov/provider-data/sites/default/files/resources/74be67fd6833391f578abb5605d03ce6_1770163605/FY_2026_HAC_Reduction_Program_Hospital.csv"
+        }
+      ],
+      "fingerprint": {
+        "modified": "2026-01-26",
+        "released": "2026-08-13",
+        "urls": [
+          "https://data.cms.gov/provider-data/sites/default/files/resources/74be67fd6833391f578abb5605d03ce6_1770163605/FY_2026_HAC_Reduction_Program_Hospital.csv"
+        ]
+      },
+      "title": "Hospital-Acquired Condition (HAC) Reduction Program"
+    },
+    "yv7e-xc69": {
+      "downloaded_at": "2026-10-29T13:44:17+00:00",
+      "files": [
+        {
+          "bytes_downloaded": 34150899,
+          "columns": [
+            "facility_id",
+            "facility_name",
+            "address",
+            "city_town",
+            "state",
+            "zip_code",
+            "county_parish",
+            "telephone_number",
+            "condition",
+            "measure_id",
+            "measure_name",
+            "score",
+            "sample",
+            "footnote",
+            "start_date",
+            "end_date"
+          ],
+          "name": "timely_and_effective_care_hospital__yv7e-xc69.csv",
+          "url": "https://data.cms.gov/provider-data/sites/default/files/resources/0437b5494ac61507ad90f2af6b8085a7_1785189967/Timely_and_Effective_Care-Hospital.csv"
+        }
+      ],
+      "fingerprint": {
+        "modified": "2026-07-22",
+        "released": "2026-08-13",
+        "urls": [
+          "https://data.cms.gov/provider-data/sites/default/files/resources/0437b5494ac61507ad90f2af6b8085a7_1785189967/Timely_and_Effective_Care-Hospital.csv"
+        ]
+      },
+      "title": "Timely and Effective Care - Hospital"
+    },
+    "z8ax-x9j1": {
+      "downloaded_at": "2026-10-29T13:44:14+00:00",
+      "files": [
+        {
+          "bytes_downloaded": 12393,
+          "columns": [
+            "facility_id",
+            "facility_name",
+            "hospital_type",
+            "address",
+            "city_town",
+            "state",
+            "zip_code",
+            "county_parish",
+            "measure_id",
+            "measure_description",
+            "total_cases",
+            "performance_category",
+            "rate",
+            "interval_lower_limit",
+            "interval_upper_limit",
+            "footnote",
+            "start_date",
+            "end_date"
+          ],
+          "name": "complications_and_unplanned_hospital_visits_pps_exempt_cancer_hospital_hospital__z8ax-x9j1.csv",
+          "url": "https://data.cms.gov/provider-data/sites/default/files/resources/bc386a698d7a9b8d09bf37a73371a899_1790013958/PCH_Complications_Unplanned_Hospital_Visits_HOSPITAL.csv"
+        }
+      ],
+      "fingerprint": {
+        "modified": "2026-09-10",
+        "released": "2026-09-30",
+        "urls": [
+          "https://data.cms.gov/provider-data/sites/default/files/resources/bc386a698d7a9b8d09bf37a73371a899_1790013958/PCH_Complications_Unplanned_Hospital_Visits_HOSPITAL.csv"
+        ]
+      },
+      "title": "Complications and Unplanned Hospital Visits - PPS-Exempt Cancer Hospital - Hospital"
+    },
+    "zez1-ka2w": {
+      "downloaded_at": "2026-10-29T13:44:16+00:00",
+      "files": [
+        {
+          "bytes_downloaded": 11948,
+          "columns": [
+            "facility_id",
+            "facility_name",
+            "address",
+            "city_town",
+            "state",
+            "zip_code",
+            "county_parish",
+            "telephone_number",
+            "measure_id",
+            "measure_name",
+            "compared_to_national",
+            "denominator",
+            "score",
+            "lower_estimate",
+            "higher_estimate",
+            "footnote",
+            "start_date",
+            "end_date"
+          ],
+          "name": "rural_emergency_hospital_unplanned_hospital_visits_hospital__zez1-ka2w.csv",
+          "url": "https://data.cms.gov/provider-data/sites/default/files/resources/8058b83869a5ba155b84c3227e60f61c_1785189978/REH_Unplanned_Hospital_Visits-Hospital.csv"
+        }
+      ],
+      "fingerprint": {
+        "modified": "2026-07-22",
+        "released": "2026-08-13",
+        "urls": [
+          "https://data.cms.gov/provider-data/sites/default/files/resources/8058b83869a5ba155b84c3227e60f61c_1785189978/REH_Unplanned_Hospital_Visits-Hospital.csv"
+        ]
+      },
+      "title": "Rural Emergency Hospital Unplanned Hospital Visits - Hospital"
+    },
+    "zt3q-3e1z": {
+      "downloaded_at": "2026-10-29T13:44:16+00:00",
+      "files": [
+        {
+          "bytes_downloaded": 146,
+          "columns": [
+            "measure_id",
+            "measure_name",
+            "score",
+            "footnote",
+            "start_date",
+            "end_date"
+          ],
+          "name": "rural_emergency_hospital_outpatient_imaging_efficiency_national__zt3q-3e1z.csv",
+          "url": "https://data.cms.gov/provider-data/sites/default/files/resources/400efdf48b2a73bfef6217d28bf082e3_1785189978/REH_Outpatient_Imaging_Efficiency-National.csv"
+        }
+      ],
+      "fingerprint": {
+        "modified": "2026-07-22",
+        "released": "2026-08-13",
+        "urls": [
+          "https://data.cms.gov/provider-data/sites/default/files/resources/400efdf48b2a73bfef6217d28bf082e3_1785189978/REH_Outpatient_Imaging_Efficiency-National.csv"
+        ]
+      },
+      "title": "Rural Emergency Hospital Outpatient Imaging Efficiency - National"
+    }
+  },
+  "last_run_started_at": "2026-10-29T13:44:23+00:00",
+  "last_successful_run_at": "2026-10-29T13:44:24+00:00",
+  "version": 1
+}
